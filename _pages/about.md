@@ -68,8 +68,8 @@ J. Lai, **T.-A. Ren (Co-first author)**, W. Yue, S. Su, J. Y. K. Chan, and H. Re
 
 <!-- <div class='paper-box'> -->
 <div class='paper-box' style="display: flex; justify-content: space-between;">
-<div class='paper-box-image'><div><div class="badge">Experiment Setup</div><img src='images/Experiment_Setup.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-image'><div><div class="badge">Autonomous Navigation</div><img src='images/Autonomous_Navigation.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-image'><div><div class="badge">Experiment Setup</div><img src='images/Experiment_Setup.png' alt="sym" width="150%"></div></div>
+<div class='paper-box-image'><div><div class="badge">Autonomous Navigation</div><img src='images/Autonomous_Navigation.gif' alt="sym" width="150%"></div></div>
 </div>
 
 
@@ -81,12 +81,26 @@ J. Lai, **T.-A. Ren (Co-first author)**, W. Yue, S. Su, J. Y. K. Chan, and H. Re
 
 Guankun Wang, **Tian-Ao Ren**, Jiewen Lai, Long Bai, and Hongliang Ren
 
-- Contribute the simulation data and test the performance
+- [Paper](https://link.springer.com/article/10.1007/s11517-023-02877-0)
 
 </div>
 </div>
 
 # 💬 Projects
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CharmLab 24Winter</div><img src='images/charm23fall.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Concentric Agonist-antagonist Robots for Neurosurgical Applications**
+
+**Tian-Ao Ren**, Zhongchun Yu, Brian Vuong, Antonio Meola, and Allison M. Okamura
+
+- Develop a miniature end effector equipped with two CAARs, designed to carry out surgical actions as directed by a surgeon, through its end-mounted gripper.
+- RoboSoft2024: Soft Robotics Inspired Biology Workshop 2024[Best submission for lightning talks](https://www.colorado.edu/lab/jayaram/RoboSoft2024)
+
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CharmLab 23Fall</div><img src='images/charm23fall.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 

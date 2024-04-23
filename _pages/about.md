@@ -95,7 +95,8 @@ Guankun Wang, **Tian-Ao Ren**, Jiewen Lai, Long Bai, and Hongliang Ren
 **Tian-Ao Ren**, Zhongchun Yu, Brian Vuong, Antonio Meola, and Allison M. Okamura
 
 - Develop a miniature end effector equipped with two CAARs, designed to carry out surgical actions as directed by a surgeon, through its end-mounted gripper.
-- RoboSoft2024: Soft Robotics Inspired Biology Workshop 2024[Best submission for lightning talks](https://www.colorado.edu/lab/jayaram/RoboSoft2024)
+- RoboSoft2024: Soft Robotics Inspired Biology Workshop 2024
+- [Best submission for lightning talks](https://www.colorado.edu/lab/jayaram/RoboSoft2024)
 
 </div>
 </div>

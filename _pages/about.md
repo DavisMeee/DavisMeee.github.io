@@ -87,7 +87,7 @@ Guankun Wang, **Tian-Ao Ren**, Jiewen Lai, Long Bai, and Hongliang Ren
 </div>
 
 # 💬 Projects
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CharmLab 24Winter</div><img src='images/charm23fall.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CharmLab 24Winter</div><img src='images/charm24spring.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Concentric Agonist-antagonist Robots for Neurosurgical Applications**

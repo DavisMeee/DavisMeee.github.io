@@ -25,6 +25,8 @@ I am currently a first-Year Master student in the [Department of Mechanical Engi
 
 
 # 🔥 News
+- *2023.04*: &nbsp;🎉🎉 Our poster **Concentric Agonist-antagonist Robots for Neurosurgical Applications** has been accepted as **Best submission for lighting talk** at RoboSoft2024: Soft Robotics Inspired Biology Workshop 2024!
+- *2024.04*: &nbsp;🎉🎉 MOur paper on **Sim2Real-RL soft robotic navigation** has been accepted by **ARSO 2024** to be held in Hong Kong!
 - *2023.07*: &nbsp;🎉🎉 My first paper as a co-first author "Sim-to-Real Transfer of Soft Robotic Navigation Strategies That Learns from the Virtual Eye-in-Hand Vision" has been published on **IEEE Transactions on Industrial Informatics**!
 - *2023.07*: &nbsp;🎉🎉 Our work "Sim-to-Real Segmentation in Robot-assisted Transoral Tracheal Intubation" win the **Best Poster Award** at ICRA 2023 Workshop!
 - *2023.07*: &nbsp;🎉🎉 Our work "Domain Adaptive Sim-to-Real Segmentation of Oropharyngeal Organs" has been published on **MBEC**！

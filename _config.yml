@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Tian-Ao Ren (Teo)"
-description              : "Robot Control, Soft Robot, Robot Navigation"
+description              : "Soft Robot, Robot Control, Medical Robot"
 repository               : "TeoREN0217/TeoREN0217.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -28,7 +28,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=9UbQA4IAAAAJ&hl=en&oi=ao"
-  email            : "rta78294997@outlook.com"
+  email            : "tianao@stanford.edu"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -43,7 +43,7 @@ author:
   instagram        : "superteo0217"
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "tianao-ren-2a0349220"
+  linkedin         : "teoren"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : "https://orcid.org/0009-0008-5125-0209"
   pinterest        :

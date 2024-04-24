@@ -195,7 +195,7 @@ Guankun Wang, **Tian-Ao Ren**, Jiewen Lai, Long Bai, and Hongliang Ren
 </div>
 </div>
 
-<div class='paper-box' style="display: flex; justify-content: space-between;">
+<!-- <div class='paper-box' style="display: flex; justify-content: space-between;">
 <div class='paper-box-image' ><div><div class="badge">Intro PouchJacket</div><img src='images/pounchPic.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-image' ><div><div class="badge">Simulation</div><img src='images/pounch.gif' alt="sym" width="100%"></div></div>
 </div>
@@ -207,7 +207,7 @@ Guankun Wang, **Tian-Ao Ren**, Jiewen Lai, Long Bai, and Hongliang Ren
 **Tensegrity Robot Simulation(2 rods)**
 
 </div>
-</div>
+</div> -->
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IPR Model</div><img src='images/mcm.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -233,6 +233,8 @@ Guankun Wang, **Tian-Ao Ren**, Jiewen Lai, Long Bai, and Hongliang Ren
 
 
 # 💻 Internships
+- *2024.04 - present*, [Research Assistant] BDML, Stanford University, CA. Supervised by [Prof. Mark Cutkosky](http://bdml.stanford.edu/Profiles/MarkCutkosky), PI of [BDML](http://bdml.stanford.edu/)
+- *2023.10 - 2024.03*, [Research Assistant] Charm Lab, Stanford University, CA. Supervised by [Prof. Allison Okamura](https://charm.stanford.edu/Main/AllisonOkamura), PI of [Charm Lab](https://charm.stanford.edu/)
 - *2023.01 - 2023.09*, [Research Assistant] Shenzhen Research Institute, The Chinese University of Hong Kong, Hong Kong. Supervised by [Prof. Hongliang Ren](https://www.ee.cuhk.edu.hk/en-gb/people/academic-staff/professors/prof-ren-hongliang), PI of [MMLab](http://www.labren.org/mm/)
 
 - *2022.06 - 2022.12*, [Summer Research Intern] Dept of Electronic Engineering, The Chinese University of Hong Kong, Hong Kong. Supervised by [Prof. Hongliang Ren](https://www.ee.cuhk.edu.hk/en-gb/people/academic-staff/professors/prof-ren-hongliang), PI of [MMLab](http://www.labren.org/mm/)

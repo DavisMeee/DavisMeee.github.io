@@ -179,7 +179,7 @@ Guankun Wang, **Tian-Ao Ren**, Jiewen Lai, Long Bai, and Hongliang Ren
 
 **Sim2Real Transfer of ARX-5s robot (a 6-DOF robotic arm)**
 - [Supply Video](https://youtu.be/jVsMxDsDUM4)
-- [Robotics Arm Dancing](https://www.youtube.com/watch?v=NW4ZE4y-8hU)
+<!-- - [Robotics Arm Dancing](https://www.youtube.com/watch?v=NW4ZE4y-8hU) -->
 </div>
 </div>
 

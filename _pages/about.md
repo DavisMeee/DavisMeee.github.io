@@ -90,6 +90,16 @@ Guankun Wang, **Tian-Ao Ren**, Jiewen Lai, Long Bai, and Hongliang Ren
 
 # 💬 Projects
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BDML 24Spring</div><img src='images/haselsofa.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Simulation of HASEL actuator via SOFA Framework**
+
+- HASEL actuator simulation
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ME327 Project</div><img src='images/ME327.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 

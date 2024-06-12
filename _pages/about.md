@@ -149,7 +149,7 @@ Guankun Wang, **Tian-Ao Ren**, Jiewen Lai, Long Bai, and Hongliang Ren
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Final Year Project</div><img src='images/fyp.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**A SOFA-based Gravity-Aware Portable Soft Robot**
+**Real2Sim2Real-based Gravity-Aware Portable Soft Slender Robots**
 - Designed a 7-driven soft robot: 6 cable-driven actuator and 1 Sliding actuator
 - Work on simulation, design, embedded coding and communication to build a Sim2Real verify platform
 - Build a real machine to verify the feasibility of the platform
@@ -215,7 +215,7 @@ Guankun Wang, **Tian-Ao Ren**, Jiewen Lai, Long Bai, and Hongliang Ren
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">HASEL</div><img src='images/HASEL.gif' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">HASEL</div><img src='images/HASEL.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 
@@ -224,7 +224,7 @@ Guankun Wang, **Tian-Ao Ren**, Jiewen Lai, Long Bai, and Hongliang Ren
 - Simulated the deformation of soft beam with pneumatic-HASELs and the assembled soft gripper in SOFA
 
 </div>
-</div>
+</div> -->
 
 <!-- <div class='paper-box' style="display: flex; justify-content: space-between;">
 <div class='paper-box-image' ><div><div class="badge">Intro PouchJacket</div><img src='images/pounchPic.jpg' alt="sym" width="100%"></div></div>

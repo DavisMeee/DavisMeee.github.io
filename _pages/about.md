@@ -99,9 +99,7 @@ Guankun Wang, **Tian-Ao Ren**, Jiewen Lai, Long Bai, and Hongliang Ren
 - Design a set of haptic devices that can be mounted on any sticks(apple pencil, random wood sticks found outside, etc) to serve as virtual drumsticks.
 - Details: [Project Wiki](https://charm.stanford.edu/ME327/2024-Group3)
 - Course Website:[Stanford ME327 Spring2024](https://charm.stanford.edu/ME327/HomePage)
-<!-- - Acknowledgement: Basic simulation environment from [DTU-RL-Isaac-Gym-Drone-Env](https://github.com/esquivelrs/DTU-RL-Isaac-Gym-Drone-Env) -->
-<!-- - [Best submission for lightning talks](https://www.colorado.edu/lab/jayaram/RoboSoft2024)
-- [Poster](https://drive.google.com/file/d/1_OrWDOYpiKpdDFcmk0fL9glgCR9Nf2Y1/view?usp=sharing) -->
+
 
 </div>
 </div>
@@ -116,8 +114,6 @@ Guankun Wang, **Tian-Ao Ren**, Jiewen Lai, Long Bai, and Hongliang Ren
 - Reinforcement Learning for perching
 - Acknowledgement: Basic simulation environment from [DTU-RL-Isaac-Gym-Drone-Env](https://github.com/esquivelrs/DTU-RL-Isaac-Gym-Drone-Env)
 - Course Website:[Stanford AA203 Spring2024](https://stanfordasl.github.io//aa203/sp2324/)
-<!-- - [Best submission for lightning talks](https://www.colorado.edu/lab/jayaram/RoboSoft2024)
-- [Poster](https://drive.google.com/file/d/1_OrWDOYpiKpdDFcmk0fL9glgCR9Nf2Y1/view?usp=sharing) -->
 
 </div>
 </div>

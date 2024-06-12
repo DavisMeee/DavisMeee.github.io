@@ -26,7 +26,7 @@ I am currently a first-Year Master student in the [Department of Mechanical Engi
 
 # 🔥 News
 - *2023.04*: &nbsp;🎉🎉 Our poster **Concentric Agonist-antagonist Robots for Neurosurgical Applications** has been accepted as **Best submission for lighting talk** at RoboSoft2024: Soft Robotics Inspired Biology Workshop 2024!
-- *2024.04*: &nbsp;🎉🎉 MOur paper on **Sim2Real-RL soft robotic navigation** has been accepted by **ARSO 2024** to be held in Hong Kong!
+- *2024.04*: &nbsp;🎉🎉 Our paper on **Sim2Real-RL soft robotic navigation** has been accepted by **ARSO 2024** to be held in Hong Kong!
 - *2023.07*: &nbsp;🎉🎉 My first paper as a co-first author "Sim-to-Real Transfer of Soft Robotic Navigation Strategies That Learns from the Virtual Eye-in-Hand Vision" has been published on **IEEE Transactions on Industrial Informatics**!
 - *2023.07*: &nbsp;🎉🎉 Our work "Sim-to-Real Segmentation in Robot-assisted Transoral Tracheal Intubation" win the **Best Poster Award** at ICRA 2023 Workshop!
 - *2023.07*: &nbsp;🎉🎉 Our work "Domain Adaptive Sim-to-Real Segmentation of Oropharyngeal Organs" has been published on **MBEC**！
@@ -89,6 +89,39 @@ Guankun Wang, **Tian-Ao Ren**, Jiewen Lai, Long Bai, and Hongliang Ren
 </div>
 
 # 💬 Projects
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ME327 Project</div><img src='images/ME327.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**WHIPLASH: Virtual Drum Sticks with Haptic Feedback**
+
+- Stanford ME327 Final Project working with Chengyi Xing, Jinxin Li, Haotong Han
+- Design a set of haptic devices that can be mounted on any sticks(apple pencil, random wood sticks found outside, etc) to serve as virtual drumsticks.
+- Details: [Project Wiki](https://charm.stanford.edu/ME327/2024-Group3)
+- Course Website:[Stanford ME327 Spring2024](https://charm.stanford.edu/ME327/HomePage)
+<!-- - Acknowledgement: Basic simulation environment from [DTU-RL-Isaac-Gym-Drone-Env](https://github.com/esquivelrs/DTU-RL-Isaac-Gym-Drone-Env) -->
+<!-- - [Best submission for lightning talks](https://www.colorado.edu/lab/jayaram/RoboSoft2024)
+- [Poster](https://drive.google.com/file/d/1_OrWDOYpiKpdDFcmk0fL9glgCR9Nf2Y1/view?usp=sharing) -->
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AA203 Project</div><img src='images/RLperching.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Drone Perching with Deep Reinforcement Learning via Isaac Gym**
+
+- Stanford AA203 Final Project working with Yicheng Wang
+- Simulator: Isaac Gym
+- Reinforcement Learning for perching
+- Acknowledgement: Basic simulation environment from [DTU-RL-Isaac-Gym-Drone-Env](https://github.com/esquivelrs/DTU-RL-Isaac-Gym-Drone-Env)
+- Course Website:[Stanford AA203 Spring2024](https://stanfordasl.github.io//aa203/sp2324/)
+<!-- - [Best submission for lightning talks](https://www.colorado.edu/lab/jayaram/RoboSoft2024)
+- [Poster](https://drive.google.com/file/d/1_OrWDOYpiKpdDFcmk0fL9glgCR9Nf2Y1/view?usp=sharing) -->
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CharmLab 24Winter</div><img src='images/charm24spring.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -128,7 +161,7 @@ Guankun Wang, **Tian-Ao Ren**, Jiewen Lai, Long Bai, and Hongliang Ren
 </div>
 </div>
 
-
+<!-- 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Final Year Project</div><img src='images/fyp_sim2real.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -139,7 +172,7 @@ Guankun Wang, **Tian-Ao Ren**, Jiewen Lai, Long Bai, and Hongliang Ren
 - Video Speed 15x
 
 </div>
-</div>
+</div> -->
 
 
 

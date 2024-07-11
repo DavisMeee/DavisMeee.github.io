@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-🔥**Welcome to My Page!**🔥
+**Welcome to My Page!**
 
 I am currently a M.Phil. student in the [Faculty of Electrical Information Engineering](https://www.sydney.edu.au/engineering/about/our-people/research-students/tong-chen-494.html) at **The University of Sydney** (Supervised by Associate Prof. Luping Zhou and Dr. Dong Yuan). My research interests include Brain Decoding, Neuroimaging, and Medical Imaging.
 
@@ -27,7 +27,7 @@ I am currently a M.Phil. student in the [Faculty of Electrical Information Engin
 # 🔥 News
 - *2024.07*: &nbsp;🎉🎉 Our work **EndoUIC: Promptable Diffusion Transformer for Unified Illumination Correction in Capsule Endoscopy** has been accepted at **MICCAI2024**!
 - *2024.05*: &nbsp;🎉🎉 Our work **LighTDiff: Surgical Endoscopic Image Low-Light Enhancement with T-Diffusion** has been **Early Accepted** at **MICCAI2024**!
-- *2023.02*: &nbsp;🎉🎉 Our work **MindEye2: Shared-Subject Models Enable fMRI-To-Image With 1 Hour of Data** has been **Early Accepted** at **ICML2024**!
+- *2023.02*: &nbsp;🎉🎉 Our work **MindEye2: Shared-Subject Models Enable fMRI-To-Image With 1 Hour of Data** has been accepted at **ICML2024**!
 - *2023.07*: &nbsp;🎉🎉 Our work **LLCaps: Learning to Illuminate Low-Light Capsule Endoscopy with Curved Wavelet Attention and Reverse Diffusion** has been accepted as **Oral Presentation** at **MICCAI2023**!
 - *2023.03*: &nbsp;🎉🎉 I received my M.Phil. Offer from the University of Sydney！
 

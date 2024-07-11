@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-**Welcome to My Page!**
+# **Welcome to My Page!**
 
 I am currently a M.Phil. student in the [Faculty of Electrical Information Engineering](https://www.sydney.edu.au/engineering/about/our-people/research-students/tong-chen-494.html) at **The University of Sydney** (Supervised by Associate Prof. Luping Zhou and Dr. Dong Yuan). My research interests include Brain Decoding, Neuroimaging, and Medical Imaging.
 

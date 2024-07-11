@@ -27,7 +27,7 @@ I am currently a M.Phil. student in the [Faculty of Electrical Information Engin
 # 🔥 News
 - *2024.07*: &nbsp;🎉🎉 Our work **EndoUIC: Promptable Diffusion Transformer for Unified Illumination Correction in Capsule Endoscopy** has been accepted at **MICCAI2024**!
 - *2024.05*: &nbsp;🎉🎉 Our work **LighTDiff: Surgical Endoscopic Image Low-Light Enhancement with T-Diffusion** has been **Early Accepted** at **MICCAI2024**!
-- *2023.07*: &nbsp;🎉🎉 Our work **MindEye2: Shared-Subject Models Enable fMRI-To-Image With 1 Hour of Data** has been **Early Accepted** at **ICML2024**!
+- *2023.02*: &nbsp;🎉🎉 Our work **MindEye2: Shared-Subject Models Enable fMRI-To-Image With 1 Hour of Data** has been **Early Accepted** at **ICML2024**!
 - *2023.07*: &nbsp;🎉🎉 Our work **LLCaps: Learning to Illuminate Low-Light Capsule Endoscopy with Curved Wavelet Attention and Reverse Diffusion** has been accepted as **Oral Presentation** at **MICCAI2023**!
 - *2023.03*: &nbsp;🎉🎉 I received my M.Phil. Offer from the University of Sydney！
 
@@ -79,7 +79,7 @@ P.S Scotti*, M Tripathy*, C.K.T Villanueva*, R Kneeland*, **T Chen**, A Narang, 
 - *2019.03* **BIT Academic Excellent Scholarship (2nd)**
 
 # 📖 Educations
-- *2023.03 - 2026.12(expected)*, Ph.D., Electrical Information Engineering, the University of Sydney, Sydney, A.U.
+- *2023.03 - 2023.12(expected)*, M.Phil., Electrical Information Engineering, the University of Sydney, Sydney, A.U.
 - *2018.09 - 2021.07*, B.S., Opto-electrical Engineering, Beijing Insititute of Technology, Beijing, P.R.C.
 
 

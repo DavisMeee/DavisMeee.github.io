@@ -19,17 +19,17 @@ redirect_from:
 
 🔥**Welcome to My Page!**🔥
 
-I am currently a first-Year Master student in the [Department of Mechanical Engineering](https://me.stanford.edu) at **Stanford University**. I received my Bachelor degree in Robotics Engineering at the [College of Mechanical and Electrical Engineering](https://mech.buct.edu.cn), Beijing University of Chemical Technology (BUCT). My research interests include soft robots, robot navigation, robot learning, medical mechatronics, and healthcare robots.
+I am currently a M.Phil. student in the [Faculty of Electrical Information Engineering](https://www.sydney.edu.au/engineering/about/our-people/research-students/tong-chen-494.html) at **The University of Sydney** (Supervised by Associate Prof. Luping Zhou and Dr. Dong Yuan). My research interests include Brain Decoding, Neuroimaging, and Medical Imaging.
 
 <!-- <img src="images/my.jpg" alt="sym" width="50%" style="display: block; margin: 0 auto;"> -->
 
 
 # 🔥 News
-- *2023.04*: &nbsp;🎉🎉 Our poster **Concentric Agonist-antagonist Robots for Neurosurgical Applications** has been accepted as **Best submission for lighting talk** at RoboSoft2024: Soft Robotics Inspired Biology Workshop 2024!
-- *2024.04*: &nbsp;🎉🎉 Our paper on **Sim2Real-RL soft robotic navigation** has been accepted by **ARSO 2024** to be held in Hong Kong!
-- *2023.07*: &nbsp;🎉🎉 My first paper as a co-first author "Sim-to-Real Transfer of Soft Robotic Navigation Strategies That Learns from the Virtual Eye-in-Hand Vision" has been published on **IEEE Transactions on Industrial Informatics**!
-- *2023.07*: &nbsp;🎉🎉 Our work "Sim-to-Real Segmentation in Robot-assisted Transoral Tracheal Intubation" win the **Best Poster Award** at ICRA 2023 Workshop!
-- *2023.07*: &nbsp;🎉🎉 Our work "Domain Adaptive Sim-to-Real Segmentation of Oropharyngeal Organs" has been published on **MBEC**！
+- *2024.07*: &nbsp;🎉🎉 Our work **EndoUIC: Promptable Diffusion Transformer for Unified Illumination Correction in Capsule Endoscopy** has been accepted at **MICCAI2024**!
+- *2024.05*: &nbsp;🎉🎉 Our work **LighTDiff: Surgical Endoscopic Image Low-Light Enhancement with T-Diffusion** has been **Early Accepted** at **MICCAI2024**!
+- *2023.07*: &nbsp;🎉🎉 Our work **MindEye2: Shared-Subject Models Enable fMRI-To-Image With 1 Hour of Data** has been **Early Accepted** at **ICML2024**!
+- *2023.07*: &nbsp;🎉🎉 Our work **LLCaps: Learning to Illuminate Low-Light Capsule Endoscopy with Curved Wavelet Attention and Reverse Diffusion** has been accepted as **Oral Presentation** at **MICCAI2023**!
+- *2023.03*: &nbsp;🎉🎉 I received my M.Phil. Offer from the University of Sydney！
 
 <!-- # 📝 Ongoing Project
 
@@ -50,234 +50,40 @@ I am currently a first-Year Master student in the [Department of Mechanical Engi
  -->
 
 
-# 📝 Publications
+# 📝 Publications （* represents co-first authors）
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE-TII</div><img src='images/sim2.gif' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Sim-to-Real Transfer of Soft Robotic Navigation Strategies That Learns From the Virtual Eye-in-Hand Vision**
-
-J. Lai, **T.-A. Ren (Co-first author)**, W. Yue, S. Su, J. Y. K. Chan, and H. Ren
-
-- Medical scene 3D reconstruction in [SOFA Framework](https://www.sofa-framework.org/)
-- Soft robot modeling and navigation with [SOFTROBOTS plugin](https://project.inria.fr/softrobot/)
-- Closed-loop soft robot navigation with that **learns** from the virtual eye-in-hand vision
-- [Supply Video](https://youtu.be/vQ4xzFM9iwk)\| [Paper](https://ieeexplore.ieee.org/abstract/document/10171986)
+**LighTDiff: Surgical Endoscopic Image Low-Light Enhancement with T-Diffusion**
+**T Chen***, Q Lyu*, L Bai*, E Guo, H Gao, X Yang, H Ren, L Zhou
+- [Paper](https://arxiv.org/abs/2405.10550)\| [Code](https://github.com/DavisMeee/LighTDiff)
 <!-- -  \| [Demo](https://github.com/lofrienger/Single_SurgicalScene_For_Segmentation) -->
-
 </div>
 </div>
 
-<!-- <div class='paper-box'> -->
-<div class='paper-box' style="display: flex; justify-content: space-between;">
-<div class='paper-box-image'><div><div class="badge">Experiment Setup</div><img src='images/Experiment_Setup.png' alt="sym" width="150%"></div></div>
-<div class='paper-box-image'><div><div class="badge">Autonomous Navigation</div><img src='images/Autonomous_Navigation.gif' alt="sym" width="150%"></div></div>
-</div>
-
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MBEC</div><img src='images/domain.gif' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Domain Adaptive Sim-to-Real Segmentation of Oropharyngeal Organs**
-
-Guankun Wang, **Tian-Ao Ren**, Jiewen Lai, Long Bai, and Hongliang Ren
-
-- [Paper](https://link.springer.com/article/10.1007/s11517-023-02877-0)
-
+**EndoUIC: Promptable Diffusion Transformer for Unified Illumination Correction in Capsule Endoscopy**
+L Bai*, **T Chen***, Q Tan*, W.J Nah, Y Li, Z He, S Yuan, J Wu, Z Chen, M Islam, Z Li, H Liu, H Ren
+- [Paper](https://arxiv.org/abs/2406.13705)\| [Code]()
 </div>
 </div>
 
-# 💬 Projects
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BDML 24Spring</div><img src='images/haselsofa.gif' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Simulation of HASEL actuator via SOFA Framework**
-
-- HASEL actuator simulation
-
+**MindEye2: Shared-Subject Models Enable fMRI-To-Image With 1 Hour of Data**
+P.S Scotti*, M Tripathy*, C.K.T Villanueva*, R Kneeland*, **T Chen**, A Narang, C Santhirasegaran, J Xu, T Naselaris, K.A Norman, T.M Abraham
 </div>
 </div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ME327 Project</div><img src='images/ME327.gif' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**WHIPLASH: Virtual Drum Sticks with Haptic Feedback**
-
-- Stanford ME327 Final Project working with Chengyi Xing, Jinxin Li, Haotong Han
-- Design a set of haptic devices that can be mounted on any sticks(apple pencil, random wood sticks found outside, etc) to serve as virtual drumsticks.
-- Details: [Project Wiki](https://charm.stanford.edu/ME327/2024-Group3)
-- Course Website:[Stanford ME327 Spring2024](https://charm.stanford.edu/ME327/HomePage)
-
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AA203 Project</div><img src='images/RLperching.gif' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Drone Perching with Deep Reinforcement Learning via Isaac Gym**
-
-- Stanford AA203 Final Project working with Yicheng Wang
-- Simulator: Isaac Gym
-- Reinforcement Learning for perching
-- Acknowledgement: Basic simulation environment from [DTU-RL-Isaac-Gym-Drone-Env](https://github.com/esquivelrs/DTU-RL-Isaac-Gym-Drone-Env)
-- Course Website:[Stanford AA203 Spring2024](https://stanfordasl.github.io//aa203/sp2324/)
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CharmLab 24Winter</div><img src='images/charm24spring.gif' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Concentric Agonist-antagonist Robots for Neurosurgical Applications**
-
-**Tian-Ao Ren**, Zhongchun Yu, Brian Vuong, Antonio Meola, and Allison M. Okamura
-
-- Develop a miniature end effector equipped with two CAARs, designed to carry out surgical actions as directed by a surgeon, through its end-mounted gripper.
-- RoboSoft2024: Soft Robotics Inspired Biology Workshop 2024
-- [Best submission for lightning talks](https://www.colorado.edu/lab/jayaram/RoboSoft2024)
-- [Poster](https://drive.google.com/file/d/1_OrWDOYpiKpdDFcmk0fL9glgCR9Nf2Y1/view?usp=sharing)
-
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CharmLab 23Fall</div><img src='images/charm23fall.gif' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Wearable for High Precision Elbow Angle Measurement**
-
-- Motion Capture System to collect ground truth data of elbow angle
-- Soft Sensor System to collect sensor data
-- Design experiments to verify the accuracy of mapping method
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Final Year Project</div><img src='images/fyp.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Real2Sim2Real-based Gravity-Aware Portable Soft Slender Robots**
-- Designed a 7-driven soft robot: 6 cable-driven actuator and 1 Sliding actuator
-- Work on simulation, design, embedded coding and communication to build a Sim2Real verify platform
-- Build a real machine to verify the feasibility of the platform
-- IMU-Gravity-SOFA-Real-machine Performance
-</div>
-</div>
-
-<!-- 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Final Year Project</div><img src='images/fyp_sim2real.gif' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**A SOFA-based Sim2Real System that can Verify Soft Continuum Robot Fast**
-- Calibrate sim2real Gap
-- Socket-UDP/CAN BUS/Serial Port to build the communication system
-- Kinematics and dynamics of soft robots can be quickly verified
-- Video Speed 15x
-
-</div>
-</div> -->
-
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Cruising</div><img src='images/crusing.gif' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Floor Cruising with Dynamic Obstacle Avoidance**
-- Maximum speed of 2 m/s
-- TEB algorithm for local planning
-- Multi-sensor fusion positioning to increase localization accuracy
-- [Supply Video](https://youtu.be/cD4d4wI3bkI)
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sim2Real</div><img src='images/rm.gif' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**[ICRA2022 RoboMaster University Sim2Real Challenge](https://air.tsinghua.edu.cn/robomaster/sim2real_icra22.html)**
-- Team *777* - on behalf of Beijing University of Chemical Technology (Third Prize)
-- Use VINS-Mono location algorithm
-- D435 + IMU mode to improve motion tracking performance and make up gaps in illumination changes
-- [Supply Video](https://youtu.be/BxEthzIn8SQ)
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SwarmingRobot</div><img src='images/muliti.gif' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Swarming Robot Navigation: Sim2Real Transfer**
-- Migrated multi-machine cooperative operation composite robot model in IsaacSIM
-- High stability and obstacle avoidance ability
-- [Supply Video](https://youtu.be/3UGTcBENg5Y)
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Robotics Arm</div><img src='images/arm.gif' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Sim2Real Transfer of ARX-5s robot (a 6-DOF robotic arm)**
-- [Supply Video](https://youtu.be/jVsMxDsDUM4)
-<!-- - [Robotics Arm Dancing](https://www.youtube.com/watch?v=NW4ZE4y-8hU) -->
-</div>
-</div>
-
-
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">HASEL</div><img src='images/HASEL.gif' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-
-**Design and Characteristics of A Hydraulic Amplification-Based Soft-Exoskeleton Robotic Module**
-- Specially designed the casting mold to adapt to different application scenarios
-- Simulated the deformation of soft beam with pneumatic-HASELs and the assembled soft gripper in SOFA
-
-</div>
-</div> -->
-
-<!-- <div class='paper-box' style="display: flex; justify-content: space-between;">
-<div class='paper-box-image' ><div><div class="badge">Intro PouchJacket</div><img src='images/pounchPic.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-image' ><div><div class="badge">Simulation</div><img src='images/pounch.gif' alt="sym" width="100%"></div></div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Tensegrity Robot</div><img src='images/rod.gif' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-
-**Tensegrity Robot Simulation(2 rods)**
-
-</div>
-</div> -->
-
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IPR Model</div><img src='images/mcm.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Bitcon or Gold? --- An investment strategy of IPR(Imatation-Prediction-Risk) model based on ARIMA**
-- Compared ARIMA and LSTM models, resulted in ARIMA achieving better accuracy, even when adding the less effective LSTM model to our Imitation model and Risk model.
-
-</div>
-</div> -->
 
 
 # 🎖 Honors and Awards
-- *2023.07* **Best Poster Award at ICRA 2023 Workshop**
-- *2023.07* **Outstanding Graduates in Beijing** 
-- *2021-2022* National Scholarship of China (**TOP 0.2% in China**)
-- *2019-2020* Li Wen & Yang Yan Scholarship (**TOP 1**)
-- *2020-2021* Jinfa Technological Scholarship (**TOP 0.5% in College of Mechanical and Electrical Engineering**)  
-- *2021-2022* First Prize Scholarship of BUCT  
+- *2023.07* **Oral Presentation Award at MICCAI 2023**
+- *2021.09* **BIT Academic Excellent Scholarship (1st)**
+- *2021.03* **BIT Academic Excellent Scholarship (3rd)**
+- *2020.09* **BIT Academic Excellent Scholarship (1st)**
+- *2019.03* **BIT Academic Excellent Scholarship (2nd)**
 
 # 📖 Educations
-- *2023.09 - 2025.07(expected)*, M.S., Mechanical Engineering, Stanford University, California, U.S.
-- *2019.09 - 2023.07*, B.Eng., Robotics Engineering, Beijing University of Chemical Technology, Beijing, China
+- *2023.03 - 2026.12(expected)*, Ph.D., Electrical Information Engineering, the University of Sydney, Sydney, A.U.
+- *2018.09 - 2021.07*, B.S., Opto-electrical Engineering, Beijing Insititute of Technology, Beijing, P.R.C.
 
 
 # 💻 Internships
-- *2024.04 - present*, [Research Assistant] BDML, Stanford University, CA. Supervised by [Prof. Mark Cutkosky](http://bdml.stanford.edu/Profiles/MarkCutkosky), PI of [BDML](http://bdml.stanford.edu/)
-- *2023.10 - 2024.03*, [Research Assistant] Charm Lab, Stanford University, CA. Supervised by [Prof. Allison Okamura](https://charm.stanford.edu/Main/AllisonOkamura), PI of [Charm Lab](https://charm.stanford.edu/)
-- *2023.01 - 2023.09*, [Research Assistant] Shenzhen Research Institute, The Chinese University of Hong Kong, Hong Kong. Supervised by [Prof. Hongliang Ren](https://www.ee.cuhk.edu.hk/en-gb/people/academic-staff/professors/prof-ren-hongliang), PI of [MMLab](http://www.labren.org/mm/)
-
-- *2022.06 - 2022.12*, [Summer Research Intern] Dept of Electronic Engineering, The Chinese University of Hong Kong, Hong Kong. Supervised by [Prof. Hongliang Ren](https://www.ee.cuhk.edu.hk/en-gb/people/academic-staff/professors/prof-ren-hongliang), PI of [MMLab](http://www.labren.org/mm/)
-
-- *2021.12 - 2023.05*, [Research Intern], [Institute of AI Industry Research (AIR)](https://air.tsinghua.edu.cn/en/index.htm), Tsinghua University, Beijing. Supervised by [Prof. Guyue Zhou](https://air.tsinghua.edu.cn/en/info/1046/1196.htm), PI of AIR DISCOVER Lab.
+- 2022.03 - now, [Junior Research Assistant] Department of Electronic Engineering, The Chinese University of Hong Kong, Hong Kong. Supervised by [Prof. Hongliang Ren](https://www.ee.cuhk.edu.hk/en-gb/people/academic-staff/professors/prof-ren-hongliang), PI of [MMLab](http://www.labren.org/mm/)
+- *2021.11 - 2022.06*, [Research Intern], MengShi Automatic Driving Lab, Tsinghua University, Beijing. Supervised by [A/Prof. Xinyu Zhang].
+- *2021.06 - 2022.06*, [Research Intern], UV Lab of Ministry of Education for Photoelectronic Imaging Technology and System, Beijing Institute of Technology, Beijing. Supervised by [A/Prof. Yi Tang].

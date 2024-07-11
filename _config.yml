@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Tian-Ao Ren (Teo)"
-description              : "Soft Robot, Robot Control, Medical Robot"
-repository               : "TeoREN0217/TeoREN0217.github.io"
+title                    : "Tong Chen (Davis)"
+description              : "Neuroimaging, Brain Decoding, Medical Imaging"
+repository               : "DavisMeee/DavisMeee.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Tian-Ao Ren (Teo)"
+  name             : "Tong Chen (Davis)"
   avatar           : "images/Stanford.jpg"
-  bio              : "M.S.@Stanford University"
-  location         : 
+  bio              : "Ph.D.@The University of Sydney"
+  location         : Sydney, NSW
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=9UbQA4IAAAAJ&hl=en&oi=ao"
-  email            : "tianao@stanford.edu"
+  googlescholar    : "https://scholar.google.com/citations?user=A-IPJPkAAAAJ"
+  email            : "tche2095@uni.sydney.edu.au"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,15 +37,15 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "TeoREN0217"
+  github           : "DavisMeee"
   google_plus      :
   keybase          :
-  instagram        : "superteo0217"
+  instagram        : 
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "teoren"
+  linkedin         : "Tong Chen"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : "https://orcid.org/0009-0008-5125-0209"
+  orcid            : "https://orcid.org/0000-0003-4312-7151"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username

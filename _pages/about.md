@@ -69,7 +69,9 @@ L Bai*, **T Chen***, Q Tan*, W.J Nah, Y Li, Z He, S Yuan, J Wu, Z Chen, M Islam,
 P.S Scotti*, M Tripathy*, C.K.T Villanueva*, R Kneeland*, **T Chen**, A Narang, C Santhirasegaran, J Xu, T Naselaris, K.A Norman, T.M Abraham<br>
 - [Project Page](https://medarc-ai.github.io/mindeye2/)\| [Paper](https://arxiv.org/abs/2403.11207)\| [Code](https://github.com/MedARC-AI/MindEyeV2)
 
-
+**LLCaps: Learning to Illuminate Low-Light Capsule Endoscopy with Curved Wavelet Attention and Reverse Diffusion**<br>
+L Bai*, **T Chen***, Y Wu, A Wang, M Islam, H Ren<br>
+- [Paper](https://arxiv.org/pdf/2307.02452)\| [Code](https://github.com/longbai1006/LLCaps)
 
 # 🎖 Honors and Awards
 - *2023.07* **Oral Presentation Award at MICCAI 2023**

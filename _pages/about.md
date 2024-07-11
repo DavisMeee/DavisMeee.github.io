@@ -52,23 +52,22 @@ I am currently a M.Phil. student in the [Faculty of Electrical Information Engin
 
 # 📝 Publications （* represents co-first authors）
 
-**LighTDiff: Surgical Endoscopic Image Low-Light Enhancement with T-Diffusion**
-**T Chen***, Q Lyu*, L Bai*, E Guo, H Gao, X Yang, H Ren, L Zhou
+**LighTDiff: Surgical Endoscopic Image Low-Light Enhancement with T-Diffusion**<br>
+**T Chen***, Q Lyu*, L Bai*, E Guo, H Gao, X Yang, H Ren, L Zhou<br>
 - [Paper](https://arxiv.org/abs/2405.10550)\| [Code](https://github.com/DavisMeee/LighTDiff)
 <!-- -  \| [Demo](https://github.com/lofrienger/Single_SurgicalScene_For_Segmentation) -->
-</div>
-</div>
 
-**EndoUIC: Promptable Diffusion Transformer for Unified Illumination Correction in Capsule Endoscopy**
-L Bai*, **T Chen***, Q Tan*, W.J Nah, Y Li, Z He, S Yuan, J Wu, Z Chen, M Islam, Z Li, H Liu, H Ren
-- [Paper](https://arxiv.org/abs/2406.13705)\| [Code]()
-</div>
-</div>
 
-**MindEye2: Shared-Subject Models Enable fMRI-To-Image With 1 Hour of Data**
-P.S Scotti*, M Tripathy*, C.K.T Villanueva*, R Kneeland*, **T Chen**, A Narang, C Santhirasegaran, J Xu, T Naselaris, K.A Norman, T.M Abraham
-</div>
-</div>
+**EndoUIC: Promptable Diffusion Transformer for Unified Illumination Correction in Capsule Endoscopy**<br>
+L Bai*, **T Chen***, Q Tan*, W.J Nah, Y Li, Z He, S Yuan, J Wu, Z Chen, M Islam, Z Li, H Liu, H Ren<br>
+- [Paper](https://arxiv.org/abs/2406.13705)\| Code (Coming Soon!)
+
+
+
+**MindEye2: Shared-Subject Models Enable fMRI-To-Image With 1 Hour of Data**<br>
+P.S Scotti*, M Tripathy*, C.K.T Villanueva*, R Kneeland*, **T Chen**, A Narang, C Santhirasegaran, J Xu, T Naselaris, K.A Norman, T.M Abraham<br>
+- [Project Page](https://medarc-ai.github.io/mindeye2/)\| [Paper](https://arxiv.org/abs/2403.11207)\| [Code](https://github.com/MedARC-AI/MindEyeV2)
+
 
 
 # 🎖 Honors and Awards
@@ -85,5 +84,5 @@ P.S Scotti*, M Tripathy*, C.K.T Villanueva*, R Kneeland*, **T Chen**, A Narang, 
 
 # 💻 Internships
 - 2022.03 - now, [Junior Research Assistant] Department of Electronic Engineering, The Chinese University of Hong Kong, Hong Kong. Supervised by [Prof. Hongliang Ren](https://www.ee.cuhk.edu.hk/en-gb/people/academic-staff/professors/prof-ren-hongliang), PI of [MMLab](http://www.labren.org/mm/)
-- *2021.11 - 2022.06*, [Research Intern], MengShi Automatic Driving Lab, Tsinghua University, Beijing. Supervised by [A/Prof. Xinyu Zhang].
-- *2021.06 - 2022.06*, [Research Intern], UV Lab of Ministry of Education for Photoelectronic Imaging Technology and System, Beijing Institute of Technology, Beijing. Supervised by [A/Prof. Yi Tang].
+- *2021.11 - 2022.06*, [Research Intern], MengShi Automatic Driving Lab, Tsinghua University, Beijing. Supervised by [A/Prof. Xinyu Zhang](https://scholar.google.com.hk/citations?user=0Q7pN4cAAAAJ&hl=zh-CN).
+- *2021.06 - 2022.06*, [Research Intern], UV Lab of Ministry of Education for Photoelectronic Imaging Technology and System, Beijing Institute of Technology, Beijing. Supervised by [A/Prof. Yi Tang](https://www.researchgate.net/profile/Yi-Tang-73).

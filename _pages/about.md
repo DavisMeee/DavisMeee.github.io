@@ -86,6 +86,6 @@ L Bai†, **T Chen†**, Y Wu, A Wang, M Islam, H Ren<br>
 
 
 # 💻 Internships
-- 2022.03 - now, [Junior Research Assistant] Department of Electronic Engineering, The Chinese University of Hong Kong, Hong Kong. Supervised by [Prof. Hongliang Ren](https://www.ee.cuhk.edu.hk/en-gb/people/academic-staff/professors/prof-ren-hongliang), PI of [MMLab](http://www.labren.org/mm/)
+- 2022.03 - Present, [Research Assistant] Department of Electronic Engineering, The Chinese University of Hong Kong, Hong Kong. Supervised by [Prof. Hongliang Ren](https://www.ee.cuhk.edu.hk/en-gb/people/academic-staff/professors/prof-ren-hongliang), PI of [MMLab](http://www.labren.org/mm/)
 - *2021.11 - 2022.06*, [Research Intern], MengShi Automatic Driving Lab, Tsinghua University, Beijing. Supervised by [A/Prof. Xinyu Zhang](https://scholar.google.com.hk/citations?user=0Q7pN4cAAAAJ&hl=zh-CN).
 - *2021.06 - 2022.06*, [Research Intern], UV Lab of Ministry of Education for Photoelectronic Imaging Technology and System, Beijing Institute of Technology, Beijing. Supervised by [A/Prof. Yi Tang](https://www.researchgate.net/profile/Yi-Tang-73).

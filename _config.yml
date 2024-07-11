@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Tong Chen (Davis)"
-description              : "Neuroimaging, Brain Decoding, Medical Imaging"
+description              : "Brain Decoding, Neuroimaging, Medical Imaging"
 repository               : "DavisMeee/DavisMeee.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,13 +23,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Tong Chen (Davis)"
   avatar           : "images/Tong.JPG"
-  bio              : "Ph.D.@The University of Sydney"
+  bio              : "M.Phil.@ The University of Sydney"
   location         : Sydney, NSW
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=A-IPJPkAAAAJ"
   email            : "tche2095@uni.sydney.edu.au"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Tong-Chen-83" # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -43,7 +43,7 @@ author:
   instagram        : 
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "Tong Chen"
+  linkedin         : "https://www.linkedin.com/in/tong-chen-475440271/"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : "https://orcid.org/0000-0003-4312-7151"
   pinterest        :

@@ -51,26 +51,26 @@ I am currently a M.Phil. student in the [Faculty of Electrical Information Engin
 
 
 # 📝 Publications 
-**represents co-first authors*
+*†represents co-first authors*
 
 **LighTDiff: Surgical Endoscopic Image Low-Light Enhancement with T-Diffusion**<br>
-**T Chen***, Q Lyu*, L Bai*, E Guo, H Gao, X Yang, H Ren, L Zhou<br>
+**T Chen†**, Q Lyu†, L Bai†, E Guo, H Gao, X Yang, H Ren, L Zhou<br>
 - [Paper](https://arxiv.org/abs/2405.10550)\| [Code](https://github.com/DavisMeee/LighTDiff)
 <!-- -  \| [Demo](https://github.com/lofrienger/Single_SurgicalScene_For_Segmentation) -->
 
 
 **EndoUIC: Promptable Diffusion Transformer for Unified Illumination Correction in Capsule Endoscopy**<br>
-L Bai*, **T Chen***, Q Tan*, W.J Nah, Y Li, Z He, S Yuan, J Wu, Z Chen, M Islam, Z Li, H Liu, H Ren<br>
+L Bai†, **T Chen†**, Q Tan†, W.J Nah, Y Li, Z He, S Yuan, J Wu, Z Chen, M Islam, Z Li, H Liu, H Ren<br>
 - [Paper](https://arxiv.org/abs/2406.13705)\| Code (Coming Soon!)
 
 
 
 **MindEye2: Shared-Subject Models Enable fMRI-To-Image With 1 Hour of Data**<br>
-P.S Scotti*, M Tripathy*, C.K.T Villanueva*, R Kneeland*, **T Chen**, A Narang, C Santhirasegaran, J Xu, T Naselaris, K.A Norman, T.M Abraham<br>
+P.S Scotti†, M Tripathy†, C.K.T Villanueva†, R Kneeland†, **T Chen**, A Narang, C Santhirasegaran, J Xu, T Naselaris, K.A Norman, T.M Abraham<br>
 - [Project Page](https://medarc-ai.github.io/mindeye2/)\| [Paper](https://arxiv.org/abs/2403.11207)\| [Code](https://github.com/MedARC-AI/MindEyeV2)
 
 **LLCaps: Learning to Illuminate Low-Light Capsule Endoscopy with Curved Wavelet Attention and Reverse Diffusion**<br>
-L Bai*, **T Chen***, Y Wu, A Wang, M Islam, H Ren<br>
+L Bai†, **T Chen†**, Y Wu, A Wang, M Islam, H Ren<br>
 - [Paper](https://arxiv.org/pdf/2307.02452)\| [Code](https://github.com/longbai1006/LLCaps)
 
 # 🎖 Honors and Awards

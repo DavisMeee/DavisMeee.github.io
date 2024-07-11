@@ -50,7 +50,8 @@ I am currently a M.Phil. student in the [Faculty of Electrical Information Engin
  -->
 
 
-# 📝 Publications （* represents co-first authors）
+# 📝 Publications 
+**represents co-first authors*
 
 **LighTDiff: Surgical Endoscopic Image Low-Light Enhancement with T-Diffusion**<br>
 **T Chen***, Q Lyu*, L Bai*, E Guo, H Gao, X Yang, H Ren, L Zhou<br>

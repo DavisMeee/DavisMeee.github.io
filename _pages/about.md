@@ -61,7 +61,7 @@ I am currently a M.Phil. student in the [Faculty of Electrical Information Engin
 
 **EndoUIC: Promptable Diffusion Transformer for Unified Illumination Correction in Capsule Endoscopy**<br>
 L Bai†, **T Chen†**, Q Tan†, W.J Nah, Y Li, Z He, S Yuan, J Wu, Z Chen, M Islam, Z Li, H Liu, H Ren<br>
-- [Paper](https://arxiv.org/abs/2406.13705)\| Code (Coming Soon!)
+- [Paper](https://arxiv.org/abs/2406.13705)\| [Code](https://github.com/longbai1006/EndoUIC)
 
 
 

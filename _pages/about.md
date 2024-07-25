@@ -19,7 +19,7 @@ redirect_from:
 
 # **Welcome to My Page!**
 
-I am currently a M.Phil. student in the [Faculty of Electrical Information Engineering](https://www.sydney.edu.au/engineering/about/our-people/research-students/tong-chen-494.html) at **The University of Sydney** (Supervised by Associate Prof. Luping Zhou and Dr. Dong Yuan). My research interests include Brain Decoding, Neuroimaging, and Medical Imaging.
+I am currently a Ph.D. Candidate in the [Faculty of Electrical Information Engineering](https://www.sydney.edu.au/engineering/about/our-people/research-students/tong-chen-494.html) at **The University of Sydney** (Supervised by Associate Prof. Luping Zhou and Dr. Dong Yuan). My research interests include Brain Decoding, Neuroimaging, and Medical Imaging.
 
 <!-- <img src="images/my.jpg" alt="sym" width="50%" style="display: block; margin: 0 auto;"> -->
 
@@ -81,7 +81,7 @@ L Bai†, **T Chen†**, Y Wu, A Wang, M Islam, H Ren<br>
 - *2019.03* **BIT Academic Excellent Scholarship (2nd)**
 
 # 📖 Educations
-- *2023.03 - 2023.12(expected)*, M.Phil., Electrical Information Engineering, the University of Sydney, Sydney, A.U.
+- *2023.03 - 2026.12(expected)*, Ph.D., Electrical Information Engineering, the University of Sydney, Sydney, Australia.
 - *2018.09 - 2021.07*, B.S., Opto-electrical Engineering, Beijing Insititute of Technology, Beijing, P.R.C.
 
 

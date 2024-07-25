@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Tong Chen (Davis)"
+title                    : "Tong (Davis) Chen"
 description              : "Brain Imaging, Medical Imaging, Image Generation"
 repository               : "DavisMeee/DavisMeee.github.io"
 google_scholar_stats_use_cdn : true
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Tong Chen (Davis)"
+  name             : "Tong (Davis) Chen"
   avatar           : "images/Tong.JPG"
   bio              : "M.Phil.@ The University of Sydney"
   location         : Sydney, NSW

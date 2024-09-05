@@ -25,12 +25,13 @@ I am currently a Ph.D. Candidate in the [Faculty of Electrical Information Engin
 
 
 # 🔥 News
+- *2024.09*: &nbsp;🎉🎉 **LighTDiff: Surgical Endoscopic Image Low-Light Enhancement with T-Diffusion** received Oral Presentation at **MICCAI2024**!
 - *2024.07*: &nbsp;🎉🎉 I received my Ph.D. Offer from the University of Sydney！
 - *2024.07*: &nbsp;🎉🎉 Our work **EndoUIC: Promptable Diffusion Transformer for Unified Illumination Correction in Capsule Endoscopy** has been accepted at **MICCAI2024**!
 - *2024.05*: &nbsp;🎉🎉 Our work **LighTDiff: Surgical Endoscopic Image Low-Light Enhancement with T-Diffusion** has been **Early Accepted** at **MICCAI2024**!
 - *2023.02*: &nbsp;🎉🎉 Our work **MindEye2: Shared-Subject Models Enable fMRI-To-Image With 1 Hour of Data** has been accepted at **ICML2024**!
 - *2023.07*: &nbsp;🎉🎉 Our work **LLCaps: Learning to Illuminate Low-Light Capsule Endoscopy with Curved Wavelet Attention and Reverse Diffusion** has been accepted as **Oral Presentation** at **MICCAI2023**!
-- *2023.03*: &nbsp;🎉🎉 I received my M.Phil. Offer from the University of Sydney！
+<!-- - *2023.03*: &nbsp;🎉🎉 I received my M.Phil. Offer from the University of Sydney！ -->
 
 <!-- # 📝 Ongoing Project
 
@@ -79,6 +80,7 @@ Medical Image Computing and Computer Assisted Intervention (**MICCAI**), 2023. <
 - [Paper](https://arxiv.org/pdf/2307.02452)\| [Code](https://github.com/longbai1006/LLCaps)
 
 # 🎖 Honors and Awards
+- *2024.09* **Oral Presentation Award at MICCAI 2024**
 - *2023.07* **Oral Presentation Award at MICCAI 2023**
 - *2021.09* **BIT Academic Excellent Scholarship (1st)**
 - *2021.03* **BIT Academic Excellent Scholarship (3rd)**

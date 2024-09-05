@@ -56,26 +56,26 @@ I am currently a Ph.D. Candidate in the [Faculty of Electrical Information Engin
 
 **LighTDiff: Surgical Endoscopic Image Low-Light Enhancement with T-Diffusion**
 **T Chen†**, Q Lyu†, L Bai†, E Guo, H Gao, X Yang, H Ren, L Zhou<br>
-Medical Image Computing and Computer Assisted Intervention (MICCAI), 2024. <span style="color:red;">[Early Accepted, Oral, Top 2.7%]</span><br>
+Medical Image Computing and Computer Assisted Intervention (**MICCAI**), 2024. <span style="color:red;">*[Early Accepted, Oral, Top 2.7%]*</span><br>
 - [Paper](https://arxiv.org/abs/2405.10550)\| [Code](https://github.com/DavisMeee/LighTDiff)
 <!-- -  \| [Demo](https://github.com/lofrienger/Single_SurgicalScene_For_Segmentation) -->
 
 
 **EndoUIC: Promptable Diffusion Transformer for Unified Illumination Correction in Capsule Endoscopy**<br>
 L Bai†, **T Chen†**, Q Tan†, W.J Nah, Y Li, Z He, S Yuan, J Wu, Z Chen, M Islam, Z Li, H Liu, H Ren<be>
-Medical Image Computing and Computer Assisted Intervention (MICCAI), 2024. <br>
+Medical Image Computing and Computer Assisted Intervention (**MICCAI**), 2024. <br>
 - [Paper](https://arxiv.org/abs/2406.13705)\| [Code](https://github.com/longbai1006/EndoUIC)
 
 
 
 **MindEye2: Shared-Subject Models Enable fMRI-To-Image With 1 Hour of Data**<br>
 P.S Scotti†, M Tripathy†, C.K.T Villanueva†, R Kneeland†, **T Chen**, A Narang, C Santhirasegaran, J Xu, T Naselaris, K.A Norman, T.M Abraham<br>
-The Forty-first International Conference on Machine Learning (ICML), 2024.
+The Forty-first International Conference on Machine Learning (**ICML**), 2024.
 - [Project Page](https://medarc-ai.github.io/mindeye2/)\| [Paper](https://arxiv.org/abs/2403.11207)\| [Code](https://github.com/MedARC-AI/MindEyeV2)
 
-**LLCaps: Learning to Illuminate Low-Light Capsule Endoscopy with Curved Wavelet Attention and Reverse Diffusion** <span style="color:red;">[Oral Presentation]</span><br>
+**LLCaps: Learning to Illuminate Low-Light Capsule Endoscopy with Curved Wavelet Attention and Reverse Diffusion**
 L Bai†, **T Chen†**, Y Wu, A Wang, M Islam, H Ren<br>
-Medical Image Computing and Computer Assisted Intervention (MICCAI), 2023. <span style="color:red;">[Early Accepted, Oral, Top 3%]</span><br>
+Medical Image Computing and Computer Assisted Intervention (**MICCAI**), 2023. <span style="color:red;">*[Early Accepted, Oral, Top 3%]*</span><br>
 - [Paper](https://arxiv.org/pdf/2307.02452)\| [Code](https://github.com/longbai1006/LLCaps)
 
 # 🎖 Honors and Awards

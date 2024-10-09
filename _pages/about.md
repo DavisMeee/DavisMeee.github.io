@@ -25,7 +25,7 @@ I am currently a Ph.D. Candidate in the [Faculty of Electrical Information Engin
 
 
 # 🔥 News
-- *2024.09*: &nbsp;🎉🎉 **LighTDiff: Surgical Endoscopic Image Low-Light Enhancement with T-Diffusion** honorable mentioned for the **Best Paper Award** on **MICCAI2024**!
+- *2024.09*: &nbsp;🎉🎉 **LighTDiff: Surgical Endoscopic Image Low-Light Enhancement with T-Diffusion** win the <span style="color:red;">Honorable mention: Best Paper 2024 Award</span> on **MICCAI2024**!
 - *2024.09*: &nbsp;🎉🎉 **LighTDiff: Surgical Endoscopic Image Low-Light Enhancement with T-Diffusion** received <span style="color:red;">Oral Presentation</span> at **MICCAI2024**!
 - *2024.07*: &nbsp;🎉🎉 I received my Ph.D. Offer from the University of Sydney！
 - *2024.07*: &nbsp;🎉🎉 Our work **EndoUIC: Promptable Diffusion Transformer for Unified Illumination Correction in Capsule Endoscopy** has been accepted at **MICCAI2024**!
@@ -58,7 +58,7 @@ I am currently a Ph.D. Candidate in the [Faculty of Electrical Information Engin
 
 **LighTDiff: Surgical Endoscopic Image Low-Light Enhancement with T-Diffusion**<br>
 **T Chen†**, Q Lyu†, L Bai†, E Guo, H Gao, X Yang, H Ren, L Zhou<br>
-Medical Image Computing and Computer Assisted Intervention (**MICCAI**), 2024. <span style="color:red;">*[Best paper mention, Oral, Top 3]*</span><br>
+Medical Image Computing and Computer Assisted Intervention (**MICCAI**), 2024. <span style="color:red;">*[Honorable mention: Best Paper 2024 Award, Oral, Top 3]*</span><br>
 - [Paper](https://arxiv.org/abs/2405.10550)\| [Code](https://github.com/DavisMeee/LighTDiff)
 <!-- -  \| [Demo](https://github.com/lofrienger/Single_SurgicalScene_For_Segmentation) -->
 
@@ -81,7 +81,7 @@ Medical Image Computing and Computer Assisted Intervention (**MICCAI**), 2023. <
 - [Paper](https://arxiv.org/pdf/2307.02452)\| [Code](https://github.com/longbai1006/LLCaps)
 
 # 🎖 Honors and Awards
-- *2024.09* **Honorable mention MICCAI 2024 Best Paper Award**
+- *2024.09* **Honorable mention: Best Paper 2024 Award**
 - *2024.09* **Oral Presentation Award at MICCAI 2024**
 - *2023.07* **Oral Presentation Award at MICCAI 2023**
 - *2021.09* **BIT Academic Excellent Scholarship (1st)**

@@ -25,7 +25,7 @@ I am currently a Ph.D. Candidate in the [Faculty of Electrical Information Engin
 
 
 # 🔥 News
-- *2024.09*: &nbsp;🎉🎉 **LighTDiff: Surgical Endoscopic Image Low-Light Enhancement with T-Diffusion** win the <span style="color:red;">Honorable mention: Best Paper 2024 Award</span> on **MICCAI2024**!
+- *2024.09*: &nbsp;🎉🎉 **LighTDiff: Surgical Endoscopic Image Low-Light Enhancement with T-Diffusion** win the <span style="color:red;">Best Paper Runner-Up Award</span> at **MICCAI2024**!
 - *2024.09*: &nbsp;🎉🎉 **LighTDiff: Surgical Endoscopic Image Low-Light Enhancement with T-Diffusion** received <span style="color:red;">Oral Presentation</span> at **MICCAI2024**!
 - *2024.07*: &nbsp;🎉🎉 I received my Ph.D. Offer from the University of Sydney！
 - *2024.07*: &nbsp;🎉🎉 Our work **EndoUIC: Promptable Diffusion Transformer for Unified Illumination Correction in Capsule Endoscopy** has been accepted at **MICCAI2024**!
@@ -81,7 +81,7 @@ Medical Image Computing and Computer Assisted Intervention (**MICCAI**), 2023. <
 - [Paper](https://arxiv.org/pdf/2307.02452)\| [Code](https://github.com/longbai1006/LLCaps)
 
 # 🎖 Honors and Awards
-- *2024.09* **Honorable mention: Best Paper 2024 Award**
+- *2024.09* **Best Paper Runner-Up Award at MICCAI 2024**
 - *2024.09* **Oral Presentation Award at MICCAI 2024**
 - *2023.07* **Oral Presentation Award at MICCAI 2023**
 - *2021.09* **BIT Academic Excellent Scholarship (1st)**
@@ -100,7 +100,7 @@ Medical Image Computing and Computer Assisted Intervention (**MICCAI**), 2023. <
 - *2021.06 - 2022.06*, [Research Intern], UV Lab of Ministry of Education for Photoelectronic Imaging Technology and System, Beijing Institute of Technology, Beijing. Supervised by [A/Prof. Yi Tang](https://www.researchgate.net/profile/Yi-Tang-73).
 
 <hr class="horizontal-line">
-<div style="width: 50%; margin: 0 auto;">
+<div style="width: 30%; margin: 0 auto;">
     <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=pUwp76-FPWZ_9p-R6BSJ--0FAcHR9spdMm0_5h4Eyak&cl=ffffff&w=a"></script>
 	<p style="text-align: center; color: grey; font-size: small;">
     &copy; Tong CHEN | Last updated: Oct 2024

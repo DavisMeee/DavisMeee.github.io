@@ -101,10 +101,11 @@ Medical Image Computing and Computer Assisted Intervention (**MICCAI**), 2023. <
 
 <div style="width: 50%; margin: 0 auto;">
     <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=pUwp76-FPWZ_9p-R6BSJ--0FAcHR9spdMm0_5h4Eyak&cl=ffffff&w=a"></script>
-</div>
-		
-<footer class="footer-text">
+    <footer class="footer-text">
     &copy; Tong CHEN | Last updated: Oct 2024
 </footer>
+
+</div>
+		
 
 

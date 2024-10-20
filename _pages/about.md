@@ -89,7 +89,11 @@ Medical Image Computing and Computer Assisted Intervention (**MICCAI**), 2023. <
 - *2023.03 - 2026.12(expected)*, Ph.D., Electrical Information Engineering, the University of Sydney, Sydney, Australia.
 - *2018.09 - 2022.07*, B.S., Opto-electrical Engineering, Beijing Insititute of Technology, Beijing, China.
 
-
+# 📚 Teaching
+**Teaching Assistant:**
+- 2023-2024 Fall ELEC5622 Signals, Software and Health
+- 2024-2025 Fall ELEC5622 Signals, Software and Health
+ 
 # 💻 Internships
 - 2022.03 - Present, [Research Assistant] Department of Electronic Engineering, The Chinese University of Hong Kong, Hong Kong. Supervised by [Prof. Hongliang Ren](https://www.ee.cuhk.edu.hk/en-gb/people/academic-staff/professors/prof-ren-hongliang), PI of [RenLab](http://www.labren.org/mm/)
 - *2021.11 - 2022.06*, [Research Intern], MengShi Automatic Driving Lab, Tsinghua University, Beijing. Supervised by [A/Prof. Xinyu Zhang](https://scholar.google.com.hk/citations?user=0Q7pN4cAAAAJ&hl=zh-CN).

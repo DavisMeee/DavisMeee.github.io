@@ -58,7 +58,7 @@ I am currently a Ph.D. Candidate in the [Faculty of Electrical Information Engin
 
 **LighTDiff: Surgical Endoscopic Image Low-Light Enhancement with T-Diffusion**<br>
 **T Chen†**, Q Lyu†, L Bai†, E Guo, H Gao, X Yang, H Ren, L Zhou<br>
-Medical Image Computing and Computer Assisted Intervention (**MICCAI**), 2024. <span style="color:red;">*[Honorable mention: Best Paper 2024 Award, Oral, Top 3]*</span><br>
+Medical Image Computing and Computer Assisted Intervention (**MICCAI**), 2024. <span style="color:red;">*[Best Paper Runner-Up Award, Oral, 3/2771]*</span><br>
 - [Paper](https://arxiv.org/abs/2405.10550)\| [Code](https://github.com/DavisMeee/LighTDiff)
 <!-- -  \| [Demo](https://github.com/lofrienger/Single_SurgicalScene_For_Segmentation) -->
 
@@ -77,21 +77,17 @@ The Forty-first International Conference on Machine Learning (**ICML**), 2024.
 
 **LLCaps: Learning to Illuminate Low-Light Capsule Endoscopy with Curved Wavelet Attention and Reverse Diffusion**<br>
 L Bai†, **T Chen†**, Y Wu, A Wang, M Islam, H Ren<br>
-Medical Image Computing and Computer Assisted Intervention (**MICCAI**), 2023. <span style="color:red;">*[Early Accepted, Oral, Top 3%]*</span><br>
+Medical Image Computing and Computer Assisted Intervention (**MICCAI**), 2023. <span style="color:red;">*[Oral, Top 3%]*</span><br>
 - [Paper](https://arxiv.org/pdf/2307.02452)\| [Code](https://github.com/longbai1006/LLCaps)
 
 # 🎖 Honors and Awards
 - *2024.09* **Best Paper Runner-Up Award at MICCAI 2024**
 - *2024.09* **Oral Presentation Award at MICCAI 2024**
 - *2023.07* **Oral Presentation Award at MICCAI 2023**
-- *2021.09* **BIT Academic Excellent Scholarship (1st)**
-- *2021.03* **BIT Academic Excellent Scholarship (3rd)**
-- *2020.09* **BIT Academic Excellent Scholarship (1st)**
-- *2019.03* **BIT Academic Excellent Scholarship (2nd)**
 
 # 📖 Educations
 - *2023.03 - 2026.12(expected)*, Ph.D., Electrical Information Engineering, the University of Sydney, Sydney, Australia.
-- *2018.09 - 2021.07*, B.S., Opto-electrical Engineering, Beijing Insititute of Technology, Beijing, P.R.C.
+- *2018.09 - 2022.07*, B.S., Opto-electrical Engineering, Beijing Insititute of Technology, Beijing, China.
 
 
 # 💻 Internships

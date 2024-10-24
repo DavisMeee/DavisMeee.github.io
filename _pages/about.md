@@ -34,23 +34,11 @@ I am currently a Ph.D. Candidate in the [Faculty of Electrical Information Engin
 - *2023.07*: &nbsp;🎉🎉 Our work **LLCaps: Learning to Illuminate Low-Light Capsule Endoscopy with Curved Wavelet Attention and Reverse Diffusion** received <span style="color:red;">Oral Presentation</span> at **MICCAI2023**!
 <!-- - *2023.03*: &nbsp;🎉🎉 I received my M.Phil. Offer from the University of Sydney！ -->
 
-<!-- # 📝 Ongoing Project
-
-
-<div class='paper-box'>
-<div class='paper-box-image'><div><div class="badge">CAD</div><img src='images/ONE.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-image'><div><div class="badge">Real Machine</div><img src='images/onecable.gif' alt="sym" width="100%"></div></div>
-<div class='paper-box-image'><div><div class="badge">SOFA Simulation</div><img src='images/onesim.gif' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**OneCable Continuum Robot Project**
-
-
-- Using only one cable to achieve 3 motions: Pushing, Pulling and Twisting
-- Will submit to a top-tier journal!
-</div>
-</div>
- -->
+# 💻 Experience
+- 2023.10 - Present, [Researcher] [MedARC](https://www.medarc.ai/), Stability AI.
+- 2022.03 - Present, [Research Assistant] Department of Electronic Engineering, The Chinese University of Hong Kong, Hong Kong. Supervised by [Prof. Hongliang Ren](https://www.ee.cuhk.edu.hk/en-gb/people/academic-staff/professors/prof-ren-hongliang), PI of [RenLab](http://www.labren.org/mm/)
+- *2021.11 - 2022.06*, [Research Intern], MengShi Automatic Driving Lab, Tsinghua University, Beijing. Supervised by [A/Prof. Xinyu Zhang](https://scholar.google.com.hk/citations?user=0Q7pN4cAAAAJ&hl=zh-CN).
+- *2021.06 - 2022.06*, [Research Intern], UV Lab of Ministry of Education for Photoelectronic Imaging Technology and System, Beijing Institute of Technology, Beijing. Supervised by [A/Prof. Yi Tang](https://www.researchgate.net/profile/Yi-Tang-73).
 
 
 # 📝 Publications 
@@ -93,11 +81,6 @@ Medical Image Computing and Computer Assisted Intervention (**MICCAI**), 2023. <
 **Teaching Assistant:**
 - 2023-2024 Fall ELEC5622 Signals, Software and Health
 - 2024-2025 Fall ELEC5622 Signals, Software and Health
- 
-# 💻 Internships
-- 2022.03 - Present, [Research Assistant] Department of Electronic Engineering, The Chinese University of Hong Kong, Hong Kong. Supervised by [Prof. Hongliang Ren](https://www.ee.cuhk.edu.hk/en-gb/people/academic-staff/professors/prof-ren-hongliang), PI of [RenLab](http://www.labren.org/mm/)
-- *2021.11 - 2022.06*, [Research Intern], MengShi Automatic Driving Lab, Tsinghua University, Beijing. Supervised by [A/Prof. Xinyu Zhang](https://scholar.google.com.hk/citations?user=0Q7pN4cAAAAJ&hl=zh-CN).
-- *2021.06 - 2022.06*, [Research Intern], UV Lab of Ministry of Education for Photoelectronic Imaging Technology and System, Beijing Institute of Technology, Beijing. Supervised by [A/Prof. Yi Tang](https://www.researchgate.net/profile/Yi-Tang-73).
 
 <hr class="horizontal-line">
 <div style="width: 30%; margin: 0 auto;">

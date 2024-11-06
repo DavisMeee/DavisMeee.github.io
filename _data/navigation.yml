@@ -6,6 +6,9 @@ main:
   - title: "News"
     url: "/#-news"
 
+  - title: "Experience"
+    url: "/#-experience"
+
   - title: "Publications"
     url: "/#-publications"
 
@@ -17,6 +20,3 @@ main:
     
   - title: "Teaching"
     url: "/#-teaching"
-
-  - title: "Internships"
-    url: "/#-internships"

@@ -84,7 +84,7 @@ Medical Image Computing and Computer Assisted Intervention (**MICCAI**), 2023. <
 
 <hr class="horizontal-line">
 <div style="width: 30%; margin: 0 auto;">
-    <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=pUwp76-FPWZ_9p-R6BSJ--0FAcHR9spdMm0_5h4Eyak&cl=ffffff&w=a"></script>
+	<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=pUwp76-FPWZ_9p-R6BSJ--0FAcHR9spdMm0_5h4Eyak'></script>
 	<p style="text-align: center; color: grey; font-size: small;">
     &copy; Tong CHEN | Last updated: Oct 2024
 	</p>

@@ -25,7 +25,7 @@ I am currently a Ph.D. Candidate in the [Faculty of Electrical Information Engin
 
 
 # 🔥 News
-- *2025.06*: &nbsp;🎉🎉 Three papers are accepted by **MICCAI2025**!
+- *2025.06*: &nbsp;🎉🎉 Three papers SurgSora, WiD-PET, and Endo-4DGX are accepted by **MICCAI2025**!
 - *2025.03*: &nbsp;🎉🎉 Our work **DiN: Diffusion Model for Robust Medical VQA with Semantic Noisy Labels** has been accepted at **CVPR2025**!
 - *2024.09*: &nbsp;🎉🎉 **LighTDiff: Surgical Endoscopic Image Low-Light Enhancement with T-Diffusion** win the <span style="color:red;">Best Paper Runner-Up Award</span> at **MICCAI2024**!
 - *2024.09*: &nbsp;🎉🎉 **LighTDiff: Surgical Endoscopic Image Low-Light Enhancement with T-Diffusion** received <span style="color:red;">Oral Presentation</span> at **MICCAI2024**!

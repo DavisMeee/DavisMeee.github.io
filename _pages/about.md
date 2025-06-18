@@ -25,6 +25,7 @@ I am currently a Ph.D. Candidate in the [Faculty of Electrical Information Engin
 
 
 # 🔥 News
+- *2025.06*: &nbsp;🎉🎉 Three papers are accepted by **MICCAI2025**!
 - *2025.03*: &nbsp;🎉🎉 Our work **DiN: Diffusion Model for Robust Medical VQA with Semantic Noisy Labels** has been accepted at **CVPR2025**!
 - *2024.09*: &nbsp;🎉🎉 **LighTDiff: Surgical Endoscopic Image Low-Light Enhancement with T-Diffusion** win the <span style="color:red;">Best Paper Runner-Up Award</span> at **MICCAI2024**!
 - *2024.09*: &nbsp;🎉🎉 **LighTDiff: Surgical Endoscopic Image Low-Light Enhancement with T-Diffusion** received <span style="color:red;">Oral Presentation</span> at **MICCAI2024**!
@@ -36,6 +37,7 @@ I am currently a Ph.D. Candidate in the [Faculty of Electrical Information Engin
 <!-- - *2023.03*: &nbsp;🎉🎉 I received my M.Phil. Offer from the University of Sydney！ -->
 
 # 💻 Experience
+- 2025.04 - Present, [Research Intern] [Alibaba DAMO Academy, Alibaba Group].
 - 2023.10 - 2025.01, [Researcher] [MedARC Neuroimaging](https://www.medarc.ai/) Leads by [Paul S. Scotti](https://paulscotti.github.io/), Stability AI.
 - 2022.03 - 2024.03, [Research Assistant] Department of Electronic Engineering, The Chinese University of Hong Kong, Hong Kong. Supervised by [Prof. Hongliang Ren](https://www.ee.cuhk.edu.hk/en-gb/people/academic-staff/professors/prof-ren-hongliang), PI of [RenLab](http://www.labren.org/mm/)
 - *2021.11 - 2022.06*, [Research Intern], MengShi Automatic Driving Lab, Tsinghua University, Beijing. Supervised by [A/Prof. Xinyu Zhang](https://scholar.google.com.hk/citations?user=0Q7pN4cAAAAJ&hl=zh-CN).
@@ -44,6 +46,15 @@ I am currently a Ph.D. Candidate in the [Faculty of Electrical Information Engin
 
 # 📝 Publications 
 *†represents co-first authors*
+**SurgSora: Object-Aware Diffusion Model for Controllable Surgical Video Generation**<br>
+**T Chen†**, S Yang†, J Wang†, L Bai†, H Ren, L Zhou<br>
+Medical Image Computing and Computer Assisted Intervention (**MICCAI**), 2025. <br>
+- [Project Page](https://surgsora.github.io)\ | [Paper](https://arxiv.org/abs/2412.14018)\| [Code](https://github.com/DavisMeee/SurgSora)
+
+**SurgSora: Object-Aware Diffusion Model for Controllable Surgical Video Generation**<br>
+Q Lyu†, **T Chen†**, E Guo†, Y Wang, L Zhou<br>
+Medical Image Computing and Computer Assisted Intervention (**MICCAI**), 2025. <br>
+- Paper and Code Coming Soon!
 
 **LighTDiff: Surgical Endoscopic Image Low-Light Enhancement with T-Diffusion**<br>
 **T Chen†**, Q Lyu†, L Bai†, E Guo, H Gao, X Yang, H Ren, L Zhou<br>

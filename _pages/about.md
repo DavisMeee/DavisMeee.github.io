@@ -101,6 +101,42 @@ Medical Image Computing and Computer Assisted Intervention (**MICCAI**), 2023. <
 - 2023-2024 Fall ELEC5622 Signals, Software and Health
 - 2024-2025 Fall ELEC5622 Signals, Software and Health
 
+<strong>Mentees:</strong><br>
+<table style="border:none;border-collapse:collapse;">
+  <tr>
+    <td style="padding-right:20px;"><strong>Xinyu Ma</strong></td>
+    <td style="padding-right:15px;">Intern</td>
+    <td style="padding-right:15px;">2024-2025</td>
+    <td>→ Ph.D. Student MPU</td>
+  </tr>
+  <tr>
+    <td><strong>Yuhan Liu</strong></td>
+    <td>Intern</td>
+    <td>2024-2025</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><strong>Wenyang Wang</strong></td>
+    <td>Intern</td>
+    <td>2024-2025</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><strong>Junyi Wang</strong></td>
+    <td>Intern</td>
+    <td>2024-2025</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><strong>Shuya Yang</strong></td>
+    <td>Intern</td>
+    <td>2024-2025</td>
+    <td>→ Ph.D. Student HKU</td>
+  </tr>
+</table>
+
+
+
 <hr class="horizontal-line">
 <div style="width: 30%; margin: 0 auto;">
 	<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=pUwp76-FPWZ_9p-R6BSJ--0FAcHR9spdMm0_5h4Eyak'></script>

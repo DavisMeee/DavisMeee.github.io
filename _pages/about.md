@@ -25,40 +25,20 @@ I am currently a Ph.D. Candidate in the [Faculty of Electrical Information Engin
 
 
 # 🔥 News
-<style>
-.scroll-container {
-    height: 280px;
-    overflow-y: auto;
-    padding: 10px;
-    border: 1px solid #ddd;
-    background-color: #f9f9f9;
-    border-radius: 5px;
-}
-
-.scroll-container ul {
-    padding: 0;
-    margin: 0;
-    list-style-type: none;
-}
-
-.scroll-container li {
-    margin-bottom: 10px;
-}
-</style>
-
-<div class="scroll-container">
-    <ul>
-        <li>*2025.06*: &nbsp;🎉🎉 Three papers <strong>SurgSora</strong>, <strong>WiD-PET</strong>, and <strong>Endo-4DGX</strong> are accepted by <strong>MICCAI2025</strong>!</li>
-        <li>*2025.03*: &nbsp;🎉🎉 Our work <strong>DiN: Diffusion Model for Robust Medical VQA with Semantic Noisy Labels</strong> has been accepted at <strong>CVPR2025</strong>!</li>
-        <li>*2024.09*: &nbsp;🎉🎉 <strong>LighTDiff: Surgical Endoscopic Image Low-Light Enhancement with T-Diffusion</strong> win the <span style="color:red;">Best Paper Runner-Up Award</span> at <strong>MICCAI2024</strong>!</li>
-        <li>*2024.09*: &nbsp;🎉🎉 <strong>LighTDiff: Surgical Endoscopic Image Low-Light Enhancement with T-Diffusion</strong> received <span style="color:red;">Oral Presentation</span> at <strong>MICCAI2024</strong>!</li>
-        <li>*2024.07*: &nbsp;🎉🎉 I received my Ph.D. Offer from the University of Sydney！</li>
-        <li>*2024.07*: &nbsp;🎉🎉 Our work <strong>EndoUIC: Promptable Diffusion Transformer for Unified Illumination Correction in Capsule Endoscopy</strong> has been accepted at <strong>MICCAI2024</strong>!</li>
-        <li>*2024.05*: &nbsp;🎉🎉 Our work <strong>LighTDiff: Surgical Endoscopic Image Low-Light Enhancement with T-Diffusion</strong> has been <strong>Early Accepted</strong> at <strong>MICCAI2024</strong>!</li>
-        <li>*2024.02*: &nbsp;🎉🎉 Our work <strong>MindEye2: Shared-Subject Models Enable fMRI-To-Image With 1 Hour of Data</strong> has been accepted at <strong>ICML2024</strong>!</li>
-        <li>*2023.07*: &nbsp;🎉🎉 Our work <strong>LLCaps: Learning to Illuminate Low-Light Capsule Endoscopy with Curved Wavelet Attention and Reverse Diffusion</strong> received <span style="color:red;">Oral Presentation</span> at <strong>MICCAI2023</strong>!</li>
-    </ul>
+<div style="height: 280px; overflow-y: auto; border: 1px solid #ddd; padding: 10px; border-radius: 5px; background-color: #f9f9f9;">
+<ul style="margin:0; padding-left:20px; list-style-type:disc;">
+  <li><em>2025.06</em>: 🎉🎉 Three papers <strong>SurgSora</strong>, <strong>WiD-PET</strong>, and <strong>Endo-4DGX</strong> are accepted by <strong>MICCAI2025</strong>!</li>
+  <li><em>2025.03</em>: 🎉🎉 Our work <strong>DiN: Diffusion Model for Robust Medical VQA with Semantic Noisy Labels</strong> has been accepted at <strong>CVPR2025</strong>!</li>
+  <li><em>2024.09</em>: 🎉🎉 <strong>LighTDiff: Surgical Endoscopic Image Low-Light Enhancement with T-Diffusion</strong> wins the <span style="color:red;">Best Paper Runner-Up Award</span> at <strong>MICCAI2024</strong>!</li>
+  <li><em>2024.09</em>: 🎉🎉 <strong>LighTDiff: Surgical Endoscopic Image Low-Light Enhancement with T-Diffusion</strong> received an <span style="color:red;">Oral Presentation</span> at <strong>MICCAI2024</strong>!</li>
+  <li><em>2024.07</em>: 🎉🎉 I received my Ph.D. offer from the University of Sydney!</li>
+  <li><em>2024.07</em>: 🎉🎉 Our work <strong>EndoUIC: Promptable Diffusion Transformer for Unified Illumination Correction in Capsule Endoscopy</strong> has been accepted at <strong>MICCAI2024</strong>!</li>
+  <li><em>2024.05</em>: 🎉🎉 Our work <strong>LighTDiff: Surgical Endoscopic Image Low-Light Enhancement with T-Diffusion</strong> has been <strong>Early Accepted</strong> at <strong>MICCAI2024</strong>!</li>
+  <li><em>2024.02</em>: 🎉🎉 Our work <strong>MindEye2: Shared-Subject Models Enable fMRI-To-Image With 1 Hour of Data</strong> has been accepted at <strong>ICML2024</strong>!</li>
+  <li><em>2023.07</em>: 🎉🎉 Our work <strong>LLCaps: Learning to Illuminate Low-Light Capsule Endoscopy with Curved Wavelet Attention and Reverse Diffusion</strong> received an <span style="color:red;">Oral Presentation</span> at <strong>MICCAI2023</strong>!</li>
+</ul>
 </div>
+
 
 <!-- - *2023.03*: &nbsp;🎉🎉 I received my M.Phil. Offer from the University of Sydney！ -->
 

@@ -102,7 +102,7 @@ Medical Image Computing and Computer Assisted Intervention (**MICCAI**), 2023. <
 - 2024-2025 Fall ELEC5622 Signals, Software and Health
 
 <strong>Mentees:</strong><br>
-<table style="border: none; border-collapse: collapse; margin: 0; padding: 0;">
+<table style="width: 70%; border: none; border-collapse: collapse; margin: 0; padding: 0;">
   <tr style="border: none;">
     <td style="border: none; padding: 0 16px 2px 0;"><strong>Xinyu Ma</strong></td>
     <td style="border: none; padding: 0 16px 2px 0;">Intern</td>

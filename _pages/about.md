@@ -25,15 +25,20 @@ I am currently a Ph.D. Candidate in the [Faculty of Electrical Information Engin
 
 
 # 🔥 News
-- *2025.06*: &nbsp;🎉🎉 Three papers **SurgSora**, **WiD-PET**, and **Endo-4DGX** are accepted by **MICCAI2025**!
-- *2025.03*: &nbsp;🎉🎉 Our work **DiN: Diffusion Model for Robust Medical VQA with Semantic Noisy Labels** has been accepted at **CVPR2025**!
-- *2024.09*: &nbsp;🎉🎉 **LighTDiff: Surgical Endoscopic Image Low-Light Enhancement with T-Diffusion** win the <span style="color:red;">Best Paper Runner-Up Award</span> at **MICCAI2024**!
-- *2024.09*: &nbsp;🎉🎉 **LighTDiff: Surgical Endoscopic Image Low-Light Enhancement with T-Diffusion** received <span style="color:red;">Oral Presentation</span> at **MICCAI2024**!
-- *2024.07*: &nbsp;🎉🎉 I received my Ph.D. Offer from the University of Sydney！
-- *2024.07*: &nbsp;🎉🎉 Our work **EndoUIC: Promptable Diffusion Transformer for Unified Illumination Correction in Capsule Endoscopy** has been accepted at **MICCAI2024**!
-- *2024.05*: &nbsp;🎉🎉 Our work **LighTDiff: Surgical Endoscopic Image Low-Light Enhancement with T-Diffusion** has been **Early Accepted** at **MICCAI2024**!
-- *2024.02*: &nbsp;🎉🎉 Our work **MindEye2: Shared-Subject Models Enable fMRI-To-Image With 1 Hour of Data** has been accepted at **ICML2024**!
-- *2023.07*: &nbsp;🎉🎉 Our work **LLCaps: Learning to Illuminate Low-Light Capsule Endoscopy with Curved Wavelet Attention and Reverse Diffusion** received <span style="color:red;">Oral Presentation</span> at **MICCAI2023**!
+<div style="height: 280px; overflow: auto;">
+<ul>	
+
+<li>*2025.06*: &nbsp;🎉🎉 Three papers **SurgSora**, **WiD-PET**, and **Endo-4DGX** are accepted by **MICCAI2025**! <\li>
+<li>*2025.03*: &nbsp;🎉🎉 Our work **DiN: Diffusion Model for Robust Medical VQA with Semantic Noisy Labels** has been accepted at **CVPR2025**! <\li>
+<li>*2024.09*: &nbsp;🎉🎉 **LighTDiff: Surgical Endoscopic Image Low-Light Enhancement with T-Diffusion** win the <span style="color:red;">Best Paper Runner-Up Award</span> at **MICCAI2024**! <\li>
+<li>*2024.09*: &nbsp;🎉🎉 **LighTDiff: Surgical Endoscopic Image Low-Light Enhancement with T-Diffusion** received <span style="color:red;">Oral Presentation</span> at **MICCAI2024**! <\li>
+<li>*2024.07*: &nbsp;🎉🎉 I received my Ph.D. Offer from the University of Sydney！<\li>
+<li>*2024.07*: &nbsp;🎉🎉 Our work **EndoUIC: Promptable Diffusion Transformer for Unified Illumination Correction in Capsule Endoscopy** has been accepted at **MICCAI2024**! <\li>
+<li>*2024.05*: &nbsp;🎉🎉 Our work **LighTDiff: Surgical Endoscopic Image Low-Light Enhancement with T-Diffusion** has been **Early Accepted** at **MICCAI2024**! <\li>
+<li>*2024.02*: &nbsp;🎉🎉 Our work **MindEye2: Shared-Subject Models Enable fMRI-To-Image With 1 Hour of Data** has been accepted at **ICML2024**! <\li>
+<li>*2023.07*: &nbsp;🎉🎉 Our work **LLCaps: Learning to Illuminate Low-Light Capsule Endoscopy with Curved Wavelet Attention and Reverse Diffusion** received <span style="color:red;">Oral Presentation</span> at **MICCAI2023**! <\li>
+</ul>
+</div>
 <!-- - *2023.03*: &nbsp;🎉🎉 I received my M.Phil. Offer from the University of Sydney！ -->
 
 # 💻 Experience

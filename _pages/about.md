@@ -107,7 +107,7 @@ Medical Image Computing and Computer Assisted Intervention (**MICCAI**), 2023. <
     <td style="border: none; padding: 0 16px 2px 0;"><strong>Xinyu Ma</strong></td>
     <td style="border: none; padding: 0 16px 2px 0;">Intern</td>
     <td style="border: none; padding: 0 16px 2px 0;">2024-2025</td>
-    <td style="border: none; padding: 0 0 2px 0;">→ Ph.D. Student MPU</td>
+    <td style="border: none; padding: 0 0 2px 0;">→ Ph.D. Student@MPU</td>
   </tr>
   <tr style="border: none;">
     <td style="border: none; padding: 0 16px 2px 0;"><strong>Yuhan Liu</strong></td>
@@ -131,7 +131,7 @@ Medical Image Computing and Computer Assisted Intervention (**MICCAI**), 2023. <
     <td style="border: none; padding: 0 16px 0 0;"><strong>Shuya Yang</strong></td>
     <td style="border: none; padding: 0 16px 0 0;">Intern</td>
     <td style="border: none; padding: 0 16px 0 0;">2024-2025</td>
-    <td style="border: none; padding: 0;">→ Ph.D. Student HKU</td>
+    <td style="border: none; padding: 0;">→ Ph.D. Student@HKU</td>
   </tr>
 </table>
 

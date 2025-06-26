@@ -102,36 +102,36 @@ Medical Image Computing and Computer Assisted Intervention (**MICCAI**), 2023. <
 - 2024-2025 Fall ELEC5622 Signals, Software and Health
 
 <strong>Mentees:</strong><br>
-<table style="border:none;border-collapse:collapse;">
-  <tr>
-    <td style="padding-right:20px;"><strong>Xinyu Ma</strong></td>
-    <td style="padding-right:15px;">Intern</td>
-    <td style="padding-right:15px;">2024-2025</td>
-    <td>→ Ph.D. Student MPU</td>
+<table style="border: none; border-collapse: collapse; margin: 0; padding: 0;">
+  <tr style="border: none;">
+    <td style="border: none; padding: 0 16px 2px 0;"><strong>Xinyu Ma</strong></td>
+    <td style="border: none; padding: 0 16px 2px 0;">Intern</td>
+    <td style="border: none; padding: 0 16px 2px 0;">2024-2025</td>
+    <td style="border: none; padding: 0 0 2px 0;">→ Ph.D. Student MPU</td>
   </tr>
-  <tr>
-    <td><strong>Yuhan Liu</strong></td>
-    <td>Intern</td>
-    <td>2024-2025</td>
-    <td></td>
+  <tr style="border: none;">
+    <td style="border: none; padding: 0 16px 2px 0;"><strong>Yuhan Liu</strong></td>
+    <td style="border: none; padding: 0 16px 2px 0;">Intern</td>
+    <td style="border: none; padding: 0 16px 2px 0;">2024-2025</td>
+    <td style="border: none; padding: 0;"></td>
   </tr>
-  <tr>
-    <td><strong>Wenyang Wang</strong></td>
-    <td>Intern</td>
-    <td>2024-2025</td>
-    <td></td>
+  <tr style="border: none;">
+    <td style="border: none; padding: 0 16px 2px 0;"><strong>Wenyang Wang</strong></td>
+    <td style="border: none; padding: 0 16px 2px 0;">Intern</td>
+    <td style="border: none; padding: 0 16px 2px 0;">2024-2025</td>
+    <td style="border: none; padding: 0;"></td>
   </tr>
-  <tr>
-    <td><strong>Junyi Wang</strong></td>
-    <td>Intern</td>
-    <td>2024-2025</td>
-    <td></td>
+  <tr style="border: none;">
+    <td style="border: none; padding: 0 16px 2px 0;"><strong>Junyi Wang</strong></td>
+    <td style="border: none; padding: 0 16px 2px 0;">Intern</td>
+    <td style="border: none; padding: 0 16px 2px 0;">2024-2025</td>
+    <td style="border: none; padding: 0;"></td>
   </tr>
-  <tr>
-    <td><strong>Shuya Yang</strong></td>
-    <td>Intern</td>
-    <td>2024-2025</td>
-    <td>→ Ph.D. Student HKU</td>
+  <tr style="border: none;">
+    <td style="border: none; padding: 0 16px 0 0;"><strong>Shuya Yang</strong></td>
+    <td style="border: none; padding: 0 16px 0 0;">Intern</td>
+    <td style="border: none; padding: 0 16px 0 0;">2024-2025</td>
+    <td style="border: none; padding: 0;">→ Ph.D. Student HKU</td>
   </tr>
 </table>
 

@@ -56,6 +56,11 @@ I am currently a Ph.D. Candidate in the [Faculty of Electrical Information Engin
 # 📝 Publications 
 *†represents co-first authors*
 
+**EndoIR: Degradation-Agnostic All-in-One Endoscopic Image Restoration via Noise-Aware Routing Diffusion**<br>
+**T Chen†**, X Ma†, L Bai†, Wenyang Wang, Y Sun*, L Zhou*<br>
+Annual AAAI Conference on Artificial Intelligence (**AAAI**), 2026. <br>
+- [Paper](https://arxiv.org/abs/2511.05873)\| [Code](https://github.com/DavisMeee/EndoIR)
+
 **SurgSora: Object-Aware Diffusion Model for Controllable Surgical Video Generation**<br>
 **T Chen†**, S Yang†, J Wang†, L Bai†, H Ren, L Zhou<br>
 Medical Image Computing and Computer Assisted Intervention (**MICCAI**), 2025. <br>

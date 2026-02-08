@@ -96,10 +96,8 @@ Medical Image Computing and Computer Assisted Intervention (**MICCAI**), 2023. <
 - [Paper](https://arxiv.org/pdf/2307.02452)\| [Code](https://github.com/longbai1006/LLCaps)
 
 # 🎖 Honors and Awards
-- *2025.10* **Top Reviewer Award at NeurIPS 2025**
-- *2024.09* **Best Paper Runner-Up Award at MICCAI 2024**
-- *2024.09* **Oral Presentation Award at MICCAI 2024**
-- *2023.07* **Oral Presentation Award at MICCAI 2023**
+- *2025.10* **[Top Reviewer](https://neurips.cc/Conferences/2025/ProgramCommittee#top-reviewer) Award, NeurIPS 2025**
+- *2024.09* **Best Paper Runner-Up Award, MICCAI 2024**
 
 # 📖 Educations
 - *2023.03 - 2026.9(expected)*, Ph.D., Electrical Information Engineering, the University of Sydney, Sydney, Australia.

@@ -27,6 +27,7 @@ I am currently a Ph.D. Candidate in the [Faculty of Electrical Information Engin
 # 🔥 News
 <div style="height: 280px; overflow-y: auto; border: 1px solid #ddd; padding: 10px; border-radius: 5px; background-color: #f9f9f9;">
 <ul style="margin:0; padding-left:20px; list-style-type:disc;">
+  <li><strong>2026.05</strong>: 🎉🎉 I was selected as <strong>DAAD AINeT fellow</strong>!</li>
   <li><strong>2025.10</strong>: 🎉🎉 One paper is accepted by <strong>CVPR2026</strong>!</li>
   <li><strong>2025.10</strong>: 🎉🎉 Two papers are accepted by <strong>AAAI2026</strong>!</li>
   <li><strong>2025.10</strong>: 🎉🎉 I received <strong>Top Reviewer Award</strong> in <strong>NeurIPS 2025</strong>!</li>

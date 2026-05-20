@@ -98,7 +98,7 @@ Medical Image Computing and Computer Assisted Intervention (**MICCAI**), 2023. <
 - [Paper](https://arxiv.org/pdf/2307.02452)\| [Code](https://github.com/longbai1006/LLCaps)
 
 # 🎖 Honors and Awards
-- *2026.05* **[2026 DAAD AInet Fellow]((https://www.daad.de/en/the-daad/postdocnet/fellows/fellows/)), AI in Neuroscience Track**
+- *2026.05* **[DAAD AInet Fellow](https://www.daad.de/en/the-daad/postdocnet/fellows/fellows), AI in Neuroscience Track, 2026**
 - *2025.10* **[Top Reviewer](https://neurips.cc/Conferences/2025/ProgramCommittee#top-reviewer), NeurIPS 2025**
 - *2024.09* **[Best Paper Runner-Up](https://miccai.org/index.php/about-miccai/awards/best-paper-award-and-young-scientist-award/), MICCAI 2024**
 

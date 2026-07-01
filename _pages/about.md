@@ -19,7 +19,9 @@ redirect_from:
 
 # **Welcome to My Page!**
 
-I am currently a Final Year Ph.D. Candidate in the [Faculty of Electrical Computer Engineering](https://www.sydney.edu.au/engineering/about/our-people/research-students/tong-chen-494.html) at **The University of Sydney** (Supervised by Associate Prof. Luping Zhou and Dr. Dong Yuan). My research interests include Generative Model, Medical Imaging and NeuroAI.
+I am currently a Final Year Ph.D. Candidate in the [Faculty of Electrical Computer Engineering](https://www.sydney.edu.au/engineering/about/our-people/research-students/tong-chen-494.html) at **The University of Sydney** (Supervised by Associate Prof. [Luping Zhou](https://sites.google.com/view/lupingzhou)). I am fortunate to have been working with Prof. [Hongliang Ren](https://www.ee.cuhk.edu.hk/en-gb/people/academic-staff/professors/prof-ren-hongliang) (CUHK), [Paul S. Scotti](https://www.paulscotti.com/) (Sophont), and [Xiaoyu Yue](https://scholar.google.com/citations?user=9Fc5FY0AAAAJ&hl=en) (XPENG Robotics).
+
+My research interests include Generative Models, VLM and MLLM.
 
 <!-- <img src="images/my.jpg" alt="sym" width="50%" style="display: block; margin: 0 auto;"> -->
 

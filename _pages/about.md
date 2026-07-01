@@ -33,12 +33,9 @@ I am currently a Final Year Ph.D. Candidate in the [Faculty of Electrical Comput
   <li><strong>2025.10</strong>: 🎉🎉 Two papers are accepted by <strong>AAAI2026</strong>!</li>
   <li><strong>2025.10</strong>: 🎉🎉 I received <strong>Top Reviewer Award</strong> in <strong>NeurIPS 2025</strong>!</li>
   <li><strong>2025.06</strong>: 🎉🎉 Three papers <strong>SurgSora</strong>, <strong>WiD-PET</strong>, and <strong>Endo-4DGX</strong> are accepted by <strong>MICCAI2025</strong>!</li>
-  <li><strong>2025.03</strong>: 🎉🎉 Our work <strong>DiN: Diffusion Model for Robust Medical VQA with Semantic Noisy Labels</strong> has been accepted at <strong>CVPR2025</strong>!</li>
+  <li><strong>2025.03</strong>: 🎉🎉 One paper is accepted by <strong>CVPR2025</strong>!</li>
   <li><strong>2024.09</strong>: 🎉🎉 <strong>LighTDiff: Surgical Endoscopic Image Low-Light Enhancement with T-Diffusion</strong> wins the <span style="color:red;">Best Paper Runner-Up Award</span> at <strong>MICCAI2024</strong>!</li>
-  <li><strong>2024.09</strong>: 🎉🎉 <strong>LighTDiff: Surgical Endoscopic Image Low-Light Enhancement with T-Diffusion</strong> received an <span style="color:red;">Oral Presentation</span> at <strong>MICCAI2024</strong>!</li>
-  <li><strong>2024.07</strong>: 🎉🎉 I received my Ph.D. offer from the University of Sydney!</li>
-  <li><strong>2024.07</strong>: 🎉🎉 Our work <strong>EndoUIC: Promptable Diffusion Transformer for Unified Illumination Correction in Capsule Endoscopy</strong> has been accepted at <strong>MICCAI2024</strong>!</li>
-  <li><strong>2024.05</strong>: 🎉🎉 Our work <strong>LighTDiff: Surgical Endoscopic Image Low-Light Enhancement with T-Diffusion</strong> has been <strong>Early Accepted</strong> at <strong>MICCAI2024</strong>!</li>
+  <li><strong>2024.07</strong>: 🎉🎉 Two papers are accepted by <strong>MICCAI2024</strong>!</li>
   <li><strong>2024.02</strong>: 🎉🎉 Our work <strong>MindEye2: Shared-Subject Models Enable fMRI-To-Image With 1 Hour of Data</strong> has been accepted at <strong>ICML2024</strong>!</li>
   <li><strong>2023.07</strong>: 🎉🎉 Our work <strong>LLCaps: Learning to Illuminate Low-Light Capsule Endoscopy with Curved Wavelet Attention and Reverse Diffusion</strong> received an <span style="color:red;">Oral Presentation</span> at <strong>MICCAI2023</strong>!</li>
 </ul>
@@ -152,7 +149,7 @@ Medical Image Computing and Computer Assisted Intervention (**MICCAI**), 2023. <
 <div style="width: 30%; margin: 0 auto;">
 	<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=pUwp76-FPWZ_9p-R6BSJ--0FAcHR9spdMm0_5h4Eyak'></script>
 	<p style="text-align: center; color: grey; font-size: small;">
-    &copy; Tong CHEN | Last updated: Oct 2024
+    &copy; Tong CHEN | Last updated: Jun 2026
 	</p>
 
 </div>

@@ -130,6 +130,7 @@ Medical Image Computing and Computer Assisted Intervention (**MICCAI**), 2023. <
     <td style="border: none; padding: 0 16px 2px 0;"><strong>Wenyang Wang</strong></td>
     <td style="border: none; padding: 0 16px 2px 0;">Intern</td>
     <td style="border: none; padding: 0 16px 2px 0;">2024-2025</td>
+	<td style="border: none; padding: 0 0 2px 0;">→ Researcher@Shanghai AI Lab</td>
     <td style="border: none; padding: 0;"></td>
   </tr>
   <tr style="border: none;">
@@ -143,6 +144,18 @@ Medical Image Computing and Computer Assisted Intervention (**MICCAI**), 2023. <
     <td style="border: none; padding: 0 16px 0 0;">Intern</td>
     <td style="border: none; padding: 0 16px 0 0;">2024-2025</td>
     <td style="border: none; padding: 0;">→ Ph.D. Student@HKU</td>
+  </tr>
+  <tr style="border: none;">
+    <td style="border: none; padding: 0 16px 0 0;"><strong>Mengchen Wang</strong></td>
+    <td style="border: none; padding: 0 16px 0 0;">Intern</td>
+    <td style="border: none; padding: 0 16px 0 0;">2025-2026</td>
+    <td style="border: none; padding: 0;">→ Ph.D. Student@MPU</td>
+  </tr>
+  <tr style="border: none;">
+    <td style="border: none; padding: 0 16px 0 0;"><strong>Shuhuai Wang</strong></td>
+    <td style="border: none; padding: 0 16px 0 0;">Intern</td>
+    <td style="border: none; padding: 0 16px 0 0;">2026-Present</td>
+    <!-- <td style="border: none; padding: 0;">→ Ph.D. Student@HKU</td> -->
   </tr>
 </table>
 

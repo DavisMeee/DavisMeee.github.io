@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Tong (Davis) Chen"
   avatar           : "images/profile.jpg"
-  bio              : "Ph.D. Candidate @ The University of Sydney"
+  bio              : "Ph.D. @ The University of Sydney"
   location         : Sydney, NSW
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=A-IPJPkAAAAJ"
-  email            : "tche2095@uni.sydney.edu.au"
+  email            : "tong.chen1@sydney.edu.au"
   researchgate     : "https://www.researchgate.net/profile/Tong-Chen-83" # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

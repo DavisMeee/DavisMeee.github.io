@@ -29,6 +29,7 @@ My research interests include Generative Models, VLA and MLLM.
 # 🔥 News
 <div style="height: 280px; overflow-y: auto; border: 1px solid #ddd; padding: 10px; border-radius: 5px; background-color: #f9f9f9;">
 <ul style="margin:0; padding-left:20px; list-style-type:disc;">
+  <li><strong>2026.08</strong>: 🎉🎉 I Successfully defeneded my Ph.D. Thesis and became a Dr. now!</li>
   <li><strong>2026.06</strong>: 🎉🎉 One paper is accepted by <strong>ECCV2026</strong>!</li>
   <li><strong>2026.05</strong>: 🎉🎉 I was selected as <strong>DAAD AINeT fellow</strong>!</li>
   <li><strong>2025.10</strong>: 🎉🎉 One paper is accepted by <strong>CVPR2026</strong>!</li>

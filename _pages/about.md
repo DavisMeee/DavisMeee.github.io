@@ -104,7 +104,7 @@ Medical Image Computing and Computer Assisted Intervention (**MICCAI**), 2023. <
 - *2024.09* **[Best Paper Runner-Up](https://miccai.org/index.php/about-miccai/awards/best-paper-award-and-young-scientist-award/), MICCAI 2024**
 
 # 📖 Educations
-- *2023.03 - 2026.9(expected)*, Ph.D., Electrical Information Engineering, the University of Sydney, Sydney, Australia.
+- *2023.03 - 2026.09*, Ph.D., Electrical Information Engineering, the University of Sydney, Sydney, Australia.
 - *2018.09 - 2022.07*, B.S., Opto-electrical Engineering, Beijing Insititute of Technology, Beijing, China.
 
 # 📚 Teaching

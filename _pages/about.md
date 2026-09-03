@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-<section class="hero-panel" id="about-me">
+<div class="about-anchor" id="about-me">
+<section class="hero-panel">
   <p class="hero-panel__eyebrow">Generative Medical AI · Surgical Intelligence</p>
   <p class="hero-panel__lead">
     I am <strong>Tong (Davis) Chen</strong>, a medical AI researcher who recently defended my Ph.D. thesis at
@@ -33,6 +34,7 @@ redirect_from:
     <article class="focus-card"><span class="focus-card__index">03</span><h2>VLA &amp; Foundation Models</h2><p>Vision-language-action learning and medical foundation models for interactive clinical systems.</p></article>
   </div>
 </section>
+</div>
 
 <section class="homepage-section" id="news">
   <div class="section-heading"><span>Updates</span><h2>News</h2></div>

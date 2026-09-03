@@ -10,7 +10,6 @@ redirect_from:
 
 <section class="hero-panel" id="about-me">
   <p class="hero-panel__eyebrow">Generative Medical AI · Surgical Intelligence</p>
-  <h1>Building reliable generative and multimodal AI for medical vision.</h1>
   <p class="hero-panel__lead">
     I am <strong>Tong (Davis) Chen</strong>, a medical AI researcher who recently defended my Ph.D. thesis at
     <a href="https://www.sydney.edu.au/engineering/about/our-people/research-students/tong-chen-494.html">The University of Sydney</a>,

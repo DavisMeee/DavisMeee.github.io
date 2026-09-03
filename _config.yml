@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Tong (Davis) Chen"
-description              : "Medical Imaging, MLLM, VLA"
+description              : "Generative medical AI, surgical intelligence, multimodal learning, and vision-language-action models."
 repository               : "DavisMeee/DavisMeee.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Tong (Davis) Chen"
   avatar           : "images/profile.jpg"
-  bio              : "Ph.D. @ The University of Sydney"
+  bio              : "Medical AI Researcher · The University of Sydney"
   location         : Sydney, NSW
   employer         :
   pubmed           : 

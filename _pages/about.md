@@ -3,172 +3,144 @@ permalink: /
 title: ""
 excerpt: ""
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
+<section class="hero-panel" id="about-me">
+  <p class="hero-panel__eyebrow">Generative Medical AI · Surgical Intelligence</p>
+  <h1>Building reliable generative and multimodal AI for medical vision.</h1>
+  <p class="hero-panel__lead">
+    I am <strong>Tong (Davis) Chen</strong>, a medical AI researcher who recently defended my Ph.D. thesis at
+    <a href="https://www.sydney.edu.au/engineering/about/our-people/research-students/tong-chen-494.html">The University of Sydney</a>,
+    supervised by Associate Prof. <a href="https://sites.google.com/view/lupingzhou">Luping Zhou</a>.
+    My work spans generative models, multimodal large language models, and vision-language-action systems,
+    with a focus on clinically meaningful medical and surgical intelligence.
+  </p>
+  <p class="hero-panel__collaborators">
+    I have been fortunate to work with Prof. <a href="https://www.ee.cuhk.edu.hk/en-gb/people/academic-staff/professors/prof-ren-hongliang">Hongliang Ren</a>
+    (CUHK), <a href="https://www.paulscotti.com/">Paul S. Scotti</a> (Sophont), and
+    <a href="https://scholar.google.com/citations?user=9Fc5FY0AAAAJ&hl=en">Xiaoyu Yue</a> (XPENG Robotics).
+  </p>
+  <div class="hero-panel__actions">
+    <a class="profile-button profile-button--primary" href="https://scholar.google.com/citations?user=A-IPJPkAAAAJ">Google Scholar</a>
+    <a class="profile-button" href="https://github.com/DavisMeee">GitHub</a>
+    <a class="profile-button" href="mailto:tong.chen1@sydney.edu.au">Email</a>
+  </div>
+  <div class="focus-grid" aria-label="Research focus areas">
+    <article class="focus-card"><span class="focus-card__index">01</span><h2>Generative Medical Vision</h2><p>Diffusion and autoregressive models for restoration, reconstruction, and controllable generation.</p></article>
+    <article class="focus-card"><span class="focus-card__index">02</span><h2>Surgical Intelligence</h2><p>Open-world perception, multimodal understanding, and spatially grounded assistance for surgery.</p></article>
+    <article class="focus-card"><span class="focus-card__index">03</span><h2>VLA &amp; Foundation Models</h2><p>Vision-language-action learning and medical foundation models for interactive clinical systems.</p></article>
+  </div>
+</section>
 
-<span class='anchor' id='about-me'></span>
+<section class="homepage-section" id="news">
+  <div class="section-heading"><span>Updates</span><h2>News</h2></div>
+  <div class="news-panel">
+    <div class="news-item news-item--featured"><time>2026.08</time><p>Successfully defended my Ph.D. thesis at The University of Sydney.</p></div>
+    <div class="news-item"><time>2026.06</time><p>One paper was accepted by <strong>ECCV 2026</strong>.</p></div>
+    <div class="news-item"><time>2026.05</time><p>Selected as a <strong>DAAD AINeT Fellow</strong> in the AI in Neuroscience track.</p></div>
+    <div class="news-item"><time>2025.10</time><p>One paper was accepted by <strong>CVPR 2026</strong>.</p></div>
+    <div class="news-item"><time>2025.10</time><p>Two papers were accepted by <strong>AAAI 2026</strong>.</p></div>
+    <div class="news-item"><time>2025.10</time><p>Received the <strong>NeurIPS 2025 Top Reviewer Award</strong>.</p></div>
+    <div class="news-item"><time>2025.06</time><p><strong>SurgSora</strong>, <strong>WiD-PET</strong>, and <strong>Endo-4DGX</strong> were accepted by MICCAI 2025.</p></div>
+    <div class="news-item"><time>2024.09</time><p><strong>LighTDiff</strong> received the MICCAI 2024 Best Paper Runner-Up Award.</p></div>
+    <div class="news-item"><time>2024.02</time><p><strong>MindEye2</strong> was accepted by ICML 2024.</p></div>
+    <div class="news-item"><time>2023.07</time><p><strong>LLCaps</strong> was selected for an oral presentation at MICCAI 2023.</p></div>
+  </div>
+</section>
 
-# **Welcome to My Page!**
+<section class="homepage-section" id="publications">
+  <div class="section-heading"><span>Selected work</span><h2>Publications</h2><p>† denotes equal contribution.</p></div>
+  <div class="publication-list">
+    <article class="publication-card">
+      <div class="publication-card__meta"><span class="venue-pill">AAAI 2026</span><span>Generative restoration</span></div>
+      <h3>EndoIR: Degradation-Agnostic All-in-One Endoscopic Image Restoration via Noise-Aware Routing Diffusion</h3>
+      <p class="publication-card__authors"><strong>T. Chen†</strong>, X. Ma†, L. Bai†, W. Wang, Y. Sun, L. Zhou</p>
+      <div class="publication-card__links"><a href="https://arxiv.org/abs/2511.05873">Paper</a><a href="https://github.com/DavisMeee/EndoIR">Code</a></div>
+    </article>
+    <article class="publication-card publication-card--featured">
+      <div class="publication-card__meta"><span class="venue-pill">MICCAI 2025</span><span>Controllable video generation</span></div>
+      <h3>SurgSora: Object-Aware Diffusion Model for Controllable Surgical Video Generation</h3>
+      <p class="publication-card__authors"><strong>T. Chen†</strong>, S. Yang†, J. Wang†, L. Bai†, H. Ren, L. Zhou</p>
+      <div class="publication-card__links"><a href="https://surgsora.github.io">Project</a><a href="https://arxiv.org/abs/2412.14018">Paper</a><a href="https://github.com/DavisMeee/SurgSora">Code</a></div>
+    </article>
+    <article class="publication-card">
+      <div class="publication-card__meta"><span class="venue-pill">MICCAI 2025</span><span>Low-dose reconstruction</span></div>
+      <h3>WiD-PET: PET Image Reconstruction from Low-Dose Data Using a Wavelet-Informed Diffusion Model with Fast Inference</h3>
+      <p class="publication-card__authors">Q. Lyu†, <strong>T. Chen†</strong>, E. Guo†, Y. Wang, L. Zhou</p>
+      <p class="publication-card__status">Paper and code coming soon.</p>
+    </article>
+    <article class="publication-card publication-card--award">
+      <div class="publication-card__meta"><span class="venue-pill">MICCAI 2024</span><span class="award-label">Best Paper Runner-Up · Oral</span></div>
+      <h3>LighTDiff: Surgical Endoscopic Image Low-Light Enhancement with T-Diffusion</h3>
+      <p class="publication-card__authors"><strong>T. Chen†</strong>, Q. Lyu†, L. Bai†, E. Guo, H. Gao, X. Yang, H. Ren, L. Zhou</p>
+      <div class="publication-card__links"><a href="https://arxiv.org/abs/2405.10550">Paper</a><a href="https://github.com/DavisMeee/LighTDiff">Code</a></div>
+    </article>
+    <article class="publication-card">
+      <div class="publication-card__meta"><span class="venue-pill">MICCAI 2024</span><span>Unified illumination correction</span></div>
+      <h3>EndoUIC: Promptable Diffusion Transformer for Unified Illumination Correction in Capsule Endoscopy</h3>
+      <p class="publication-card__authors">L. Bai†, <strong>T. Chen†</strong>, Q. Tan†, W. J. Nah, Y. Li, Z. He, S. Yuan, J. Wu, Z. Chen, M. Islam, Z. Li, H. Liu, H. Ren</p>
+      <div class="publication-card__links"><a href="https://arxiv.org/abs/2406.13705">Paper</a><a href="https://github.com/longbai1006/EndoUIC">Code</a></div>
+    </article>
+    <article class="publication-card">
+      <div class="publication-card__meta"><span class="venue-pill">ICML 2024</span><span>fMRI-to-image decoding</span></div>
+      <h3>MindEye2: Shared-Subject Models Enable fMRI-To-Image With 1 Hour of Data</h3>
+      <p class="publication-card__authors">P. S. Scotti†, M. Tripathy†, C. K. T. Villanueva†, R. Kneeland†, <strong>T. Chen</strong>, et al.</p>
+      <div class="publication-card__links"><a href="https://medarc-ai.github.io/mindeye2/">Project</a><a href="https://arxiv.org/abs/2403.11207">Paper</a><a href="https://github.com/MedARC-AI/MindEyeV2">Code</a></div>
+    </article>
+    <article class="publication-card publication-card--award">
+      <div class="publication-card__meta"><span class="venue-pill">MICCAI 2023</span><span class="award-label">Oral · Top 3%</span></div>
+      <h3>LLCaps: Learning to Illuminate Low-Light Capsule Endoscopy with Curved Wavelet Attention and Reverse Diffusion</h3>
+      <p class="publication-card__authors">L. Bai†, <strong>T. Chen†</strong>, Y. Wu, A. Wang, M. Islam, H. Ren</p>
+      <div class="publication-card__links"><a href="https://arxiv.org/pdf/2307.02452">Paper</a><a href="https://github.com/longbai1006/LLCaps">Code</a></div>
+    </article>
+  </div>
+</section>
 
-I am currently a Final Year Ph.D. Candidate in the [Faculty of Electrical Computer Engineering](https://www.sydney.edu.au/engineering/about/our-people/research-students/tong-chen-494.html) at **The University of Sydney** (Supervised by Associate Prof. [Luping Zhou](https://sites.google.com/view/lupingzhou)). I am fortunate to have been working with Prof. [Hongliang Ren](https://www.ee.cuhk.edu.hk/en-gb/people/academic-staff/professors/prof-ren-hongliang) (CUHK), [Paul S. Scotti](https://www.paulscotti.com/) (Sophont), and [Xiaoyu Yue](https://scholar.google.com/citations?user=9Fc5FY0AAAAJ&hl=en) (XPENG Robotics).
+<section class="homepage-section" id="experience">
+  <div class="section-heading"><span>Background</span><h2>Experience</h2></div>
+  <div class="timeline-list">
+    <article><time>2025.04–2025.07</time><div><h3>Research Intern · Alibaba DAMO Academy</h3><p>Alibaba Group, Hangzhou, China.</p></div></article>
+    <article><time>2023.10–2025.01</time><div><h3>Researcher · MedARC Neuroimaging</h3><p>Worked with Paul S. Scotti on generative neural decoding.</p></div></article>
+    <article><time>2022.03–2024.03</time><div><h3>External Collaborator · The Chinese University of Hong Kong</h3><p>Department of Electronic Engineering, supervised by Prof. Hongliang Ren.</p></div></article>
+    <article><time>2021.11–2022.06</time><div><h3>Research Intern · Tsinghua University</h3><p>MengShi Automatic Driving Lab, supervised by Associate Prof. Xinyu Zhang.</p></div></article>
+    <article><time>2021.06–2022.06</time><div><h3>Research Intern · Beijing Institute of Technology</h3><p>UV Lab of the Ministry of Education, supervised by Associate Prof. Yi Tang.</p></div></article>
+  </div>
+</section>
 
-My research interests include Generative Models, VLA and MLLM.
+<section class="homepage-section" id="awards">
+  <div class="section-heading"><span>Recognition</span><h2>Honors &amp; Awards</h2></div>
+  <div class="recognition-grid">
+    <a class="recognition-card" href="https://www.daad.de/en/the-daad/postdocnet/fellows/fellows"><time>2026</time><strong>DAAD AINeT Fellow</strong><span>AI in Neuroscience Track</span></a>
+    <a class="recognition-card" href="https://neurips.cc/Conferences/2025/ProgramCommittee#top-reviewer"><time>2025</time><strong>NeurIPS Top Reviewer</strong><span>Program Committee recognition</span></a>
+    <a class="recognition-card" href="https://miccai.org/index.php/about-miccai/awards/best-paper-award-and-young-scientist-award/"><time>2024</time><strong>MICCAI Best Paper Runner-Up</strong><span>LighTDiff · Oral · 3/2771</span></a>
+  </div>
+</section>
 
-<!-- <img src="images/my.jpg" alt="sym" width="50%" style="display: block; margin: 0 auto;"> -->
+<section class="homepage-section" id="education">
+  <div class="section-heading"><span>Academic path</span><h2>Education &amp; Teaching</h2></div>
+  <div class="two-column-grid">
+    <article class="detail-card"><h3>Education</h3><dl><dt>Ph.D. · Electrical and Information Engineering</dt><dd>The University of Sydney · 2023–2026</dd><dt>B.S. · Optoelectronic Engineering</dt><dd>Beijing Institute of Technology · 2018–2022</dd></dl></article>
+    <article class="detail-card"><h3>Teaching</h3><dl><dt>ELEC5622 · Signals, Software and Health</dt><dd>Teaching Assistant · 2023–2025</dd></dl></article>
+  </div>
+</section>
 
+<section class="homepage-section" id="mentoring">
+  <div class="section-heading"><span>Community</span><h2>Mentoring</h2></div>
+  <div class="table-scroll"><table class="mentoring-table">
+    <thead><tr><th>Name</th><th>Role</th><th>Period</th><th>Next step</th></tr></thead>
+    <tbody>
+      <tr><td>Xinyu Ma</td><td>Intern</td><td>2024–2025</td><td>Ph.D. student · MPU</td></tr>
+      <tr><td>Yuhan Liu</td><td>Intern</td><td>2024–2025</td><td>—</td></tr>
+      <tr><td>Wenyang Wang</td><td>Intern</td><td>2024–2025</td><td>Researcher · Shanghai AI Lab</td></tr>
+      <tr><td>Junyi Wang</td><td>Intern</td><td>2024–2025</td><td>—</td></tr>
+      <tr><td>Shuya Yang</td><td>Intern</td><td>2024–2025</td><td>Ph.D. student · HKU</td></tr>
+      <tr><td>Mengchen Wang</td><td>Intern</td><td>2025–2026</td><td>Ph.D. student · MPU</td></tr>
+      <tr><td>Shuhuai Wang</td><td>Intern</td><td>2026–Present</td><td>—</td></tr>
+    </tbody>
+  </table></div>
+</section>
 
-# 🔥 News
-<div style="height: 280px; overflow-y: auto; border: 1px solid #ddd; padding: 10px; border-radius: 5px; background-color: #f9f9f9;">
-<ul style="margin:0; padding-left:20px; list-style-type:disc;">
-  <li><strong>2026.08</strong>: 🎉🎉 I Successfully defeneded my Ph.D. Thesis and became a Dr. now!</li>
-  <li><strong>2026.06</strong>: 🎉🎉 One paper is accepted by <strong>ECCV2026</strong>!</li>
-  <li><strong>2026.05</strong>: 🎉🎉 I was selected as <strong>DAAD AINeT fellow</strong>!</li>
-  <li><strong>2025.10</strong>: 🎉🎉 One paper is accepted by <strong>CVPR2026</strong>!</li>
-  <li><strong>2025.10</strong>: 🎉🎉 Two papers are accepted by <strong>AAAI2026</strong>!</li>
-  <li><strong>2025.10</strong>: 🎉🎉 I received <strong>Top Reviewer Award</strong> in <strong>NeurIPS 2025</strong>!</li>
-  <li><strong>2025.06</strong>: 🎉🎉 Three papers <strong>SurgSora</strong>, <strong>WiD-PET</strong>, and <strong>Endo-4DGX</strong> are accepted by <strong>MICCAI2025</strong>!</li>
-  <li><strong>2025.03</strong>: 🎉🎉 One paper is accepted by <strong>CVPR2025</strong>!</li>
-  <li><strong>2024.09</strong>: 🎉🎉 <strong>LighTDiff: Surgical Endoscopic Image Low-Light Enhancement with T-Diffusion</strong> wins the <span style="color:red;">Best Paper Runner-Up Award</span> at <strong>MICCAI2024</strong>!</li>
-  <li><strong>2024.07</strong>: 🎉🎉 Two papers are accepted by <strong>MICCAI2024</strong>!</li>
-  <li><strong>2024.02</strong>: 🎉🎉 Our work <strong>MindEye2: Shared-Subject Models Enable fMRI-To-Image With 1 Hour of Data</strong> has been accepted at <strong>ICML2024</strong>!</li>
-  <li><strong>2023.07</strong>: 🎉🎉 Our work <strong>LLCaps: Learning to Illuminate Low-Light Capsule Endoscopy with Curved Wavelet Attention and Reverse Diffusion</strong> received an <span style="color:red;">Oral Presentation</span> at <strong>MICCAI2023</strong>!</li>
-</ul>
-</div>
-
-
-
-<!-- - *2023.03*: &nbsp;🎉🎉 I received my M.Phil. Offer from the University of Sydney！ -->
-
-# 💻 Experience
-- 2025.04 - 2025.07, [Research Intern] [Alibaba DAMO Academy](https://damo.alibaba.com/research-areas?language=en), Alibaba Group, Hangzhou, China.
-- 2023.10 - 2025.01, [Researcher] [MedARC Neuroimaging](https://www.medarc.ai/) Leads by [Paul S. Scotti](https://paulscotti.github.io/), Stability AI.
-- 2022.03 - 2024.03, [External Collaborator] Department of Electronic Engineering, The Chinese University of Hong Kong, Hong Kong. Supervised by [Prof. Hongliang Ren](https://www.ee.cuhk.edu.hk/en-gb/people/academic-staff/professors/prof-ren-hongliang), PI of [RenLab](http://www.labren.org/mm/)
-- *2021.11 - 2022.06*, [Research Intern], MengShi Automatic Driving Lab, Tsinghua University, Beijing. Supervised by [A/Prof. Xinyu Zhang](https://scholar.google.com.hk/citations?user=0Q7pN4cAAAAJ&hl=zh-CN).
-- *2021.06 - 2022.06*, [Research Intern], UV Lab of Ministry of Education for Photoelectronic Imaging Technology and System, Beijing Institute of Technology, Beijing. Supervised by [A/Prof. Yi Tang](https://www.researchgate.net/profile/Yi-Tang-73).
-
-
-# 📝 Publications 
-*†represents co-first authors*
-
-**EndoIR: Degradation-Agnostic All-in-One Endoscopic Image Restoration via Noise-Aware Routing Diffusion**<br>
-**T Chen†**, X Ma†, L Bai†, Wenyang Wang, Y Sun, L Zhou<br>
-Annual AAAI Conference on Artificial Intelligence (**AAAI**), 2026. <br>
-- [Paper](https://arxiv.org/abs/2511.05873)\| [Code](https://github.com/DavisMeee/EndoIR)
-
-**SurgSora: Object-Aware Diffusion Model for Controllable Surgical Video Generation**<br>
-**T Chen†**, S Yang†, J Wang†, L Bai†, H Ren, L Zhou<br>
-Medical Image Computing and Computer Assisted Intervention (**MICCAI**), 2025. <br>
-- [Project Page](https://surgsora.github.io)\| [Paper](https://arxiv.org/abs/2412.14018)\| [Code](https://github.com/DavisMeee/SurgSora)
-
-**WiD-PET: PET Image Reconstruction from Low-Dose Data Using a Wavelet-Informed Diffusion Model with Fast Inference**<br>
-Q Lyu†, **T Chen†**, E Guo†, Y Wang, L Zhou<br>
-Medical Image Computing and Computer Assisted Intervention (**MICCAI**), 2025. <br>
-- Paper and Code Coming Soon!
-
-**LighTDiff: Surgical Endoscopic Image Low-Light Enhancement with T-Diffusion**<br>
-**T Chen†**, Q Lyu†, L Bai†, E Guo, H Gao, X Yang, H Ren, L Zhou<br>
-Medical Image Computing and Computer Assisted Intervention (**MICCAI**), 2024. <span style="color:red;">*[Best Paper Runner-Up Award, Oral, 3/2771]*</span><br>
-- [Paper](https://arxiv.org/abs/2405.10550)\| [Code](https://github.com/DavisMeee/LighTDiff)
-<!-- -  \| [Demo](https://github.com/lofrienger/Single_SurgicalScene_For_Segmentation) -->
-
-
-**EndoUIC: Promptable Diffusion Transformer for Unified Illumination Correction in Capsule Endoscopy**<br>
-L Bai†, **T Chen†**, Q Tan†, W.J Nah, Y Li, Z He, S Yuan, J Wu, Z Chen, M Islam, Z Li, H Liu, H Ren<br>
-Medical Image Computing and Computer Assisted Intervention (**MICCAI**), 2024. <br>
-- [Paper](https://arxiv.org/abs/2406.13705)\| [Code](https://github.com/longbai1006/EndoUIC)
-
-
-
-**MindEye2: Shared-Subject Models Enable fMRI-To-Image With 1 Hour of Data**<br>
-P.S Scotti†, M Tripathy†, C.K.T Villanueva†, R Kneeland†, **T Chen**, A Narang, C Santhirasegaran, J Xu, T Naselaris, K.A Norman, T.M Abraham<br>
-The Forty-first International Conference on Machine Learning (**ICML**), 2024.
-- [Project Page](https://medarc-ai.github.io/mindeye2/)\| [Paper](https://arxiv.org/abs/2403.11207)\| [Code](https://github.com/MedARC-AI/MindEyeV2)
-
-**LLCaps: Learning to Illuminate Low-Light Capsule Endoscopy with Curved Wavelet Attention and Reverse Diffusion**<br>
-L Bai†, **T Chen†**, Y Wu, A Wang, M Islam, H Ren<br>
-Medical Image Computing and Computer Assisted Intervention (**MICCAI**), 2023. <span style="color:red;">*[Oral, Top 3%]*</span><br>
-- [Paper](https://arxiv.org/pdf/2307.02452)\| [Code](https://github.com/longbai1006/LLCaps)
-
-# 🎖 Honors and Awards
-- *2026.05* **[DAAD AInet Fellow](https://www.daad.de/en/the-daad/postdocnet/fellows/fellows), AI in Neuroscience Track, 2026**
-- *2025.10* **[Top Reviewer](https://neurips.cc/Conferences/2025/ProgramCommittee#top-reviewer), NeurIPS 2025**
-- *2024.09* **[Best Paper Runner-Up](https://miccai.org/index.php/about-miccai/awards/best-paper-award-and-young-scientist-award/), MICCAI 2024**
-
-# 📖 Educations
-- *2023.03 - 2026.09*, Ph.D., Electrical Information Engineering, the University of Sydney, Sydney, Australia.
-- *2018.09 - 2022.07*, B.S., Opto-electrical Engineering, Beijing Insititute of Technology, Beijing, China.
-
-# 📚 Teaching
-**Teaching Assistant:**
-- 2023-2024 Fall ELEC5622 Signals, Software and Health
-- 2024-2025 Fall ELEC5622 Signals, Software and Health
-
-<strong>Mentees:</strong><br>
-<table style="width: 90%; border: none; border-collapse: collapse; margin: 0; padding: 0;">
-  <tr style="border: none;">
-    <td style="border: none; padding: 0 16px 2px 0;"><strong>Xinyu Ma</strong></td>
-    <td style="border: none; padding: 0 16px 2px 0;">Intern</td>
-    <td style="border: none; padding: 0 16px 2px 0;">2024-2025</td>
-    <td style="border: none; padding: 0 0 2px 0;">→ Ph.D. Student@MPU</td>
-  </tr>
-  <tr style="border: none;">
-    <td style="border: none; padding: 0 16px 2px 0;"><strong>Yuhan Liu</strong></td>
-    <td style="border: none; padding: 0 16px 2px 0;">Intern</td>
-    <td style="border: none; padding: 0 16px 2px 0;">2024-2025</td>
-    <td style="border: none; padding: 0;"></td>
-  </tr>
-  <tr style="border: none;">
-    <td style="border: none; padding: 0 16px 2px 0;"><strong>Wenyang Wang</strong></td>
-    <td style="border: none; padding: 0 16px 2px 0;">Intern</td>
-    <td style="border: none; padding: 0 16px 2px 0;">2024-2025</td>
-	<td style="border: none; padding: 0 0 2px 0;">→ Researcher@Shanghai AI Lab</td>
-    <td style="border: none; padding: 0;"></td>
-  </tr>
-  <tr style="border: none;">
-    <td style="border: none; padding: 0 16px 2px 0;"><strong>Junyi Wang</strong></td>
-    <td style="border: none; padding: 0 16px 2px 0;">Intern</td>
-    <td style="border: none; padding: 0 16px 2px 0;">2024-2025</td>
-    <td style="border: none; padding: 0;"></td>
-  </tr>
-  <tr style="border: none;">
-    <td style="border: none; padding: 0 16px 0 0;"><strong>Shuya Yang</strong></td>
-    <td style="border: none; padding: 0 16px 0 0;">Intern</td>
-    <td style="border: none; padding: 0 16px 0 0;">2024-2025</td>
-    <td style="border: none; padding: 0;">→ Ph.D. Student@HKU</td>
-  </tr>
-  <tr style="border: none;">
-    <td style="border: none; padding: 0 16px 0 0;"><strong>Mengchen Wang</strong></td>
-    <td style="border: none; padding: 0 16px 0 0;">Intern</td>
-    <td style="border: none; padding: 0 16px 0 0;">2025-2026</td>
-    <td style="border: none; padding: 0;">→ Ph.D. Student@MPU</td>
-  </tr>
-  <tr style="border: none;">
-    <td style="border: none; padding: 0 16px 0 0;"><strong>Shuhuai Wang</strong></td>
-    <td style="border: none; padding: 0 16px 0 0;">Intern</td>
-    <td style="border: none; padding: 0 16px 0 0;">2026-Present</td>
-    <!-- <td style="border: none; padding: 0;">→ Ph.D. Student@HKU</td> -->
-  </tr>
-</table>
-
-
-
-<hr class="horizontal-line">
-<div style="width: 30%; margin: 0 auto;">
-	<script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=a&t=n&d=qbgtG2inbIu30oJqkxfKXCrEUZqkLy7lu5wzGq7yJdM&co=2d78ad&ct=606060&cmo=3acc3a&cmn=ff5353'></script>
-	<p style="text-align: center; color: grey; font-size: small;">
-    &copy; Tong CHEN | Last updated: Aug 2026
-	</p>
-
-</div>
-		
-
-
+<footer class="profile-footer"><p>© 2026 Tong Chen · Generative medical AI and surgical intelligence.</p></footer>

@@ -1,0 +1,330 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "publications",
+    "indices",
+    "counts"
+  ],
+  "scholar_id": "A-IPJPkAAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Tong CHEN",
+  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=A-IPJPkAAAAJ&citpid=15",
+  "affiliation": "University of Sydney",
+  "organization": 17869855370174230969,
+  "interests": [
+    "Computer Vision",
+    "Neuroimaging",
+    "Medical Imaging"
+  ],
+  "email_domain": "@uni.sydney.edu.au",
+  "homepage": "https://davismeee.github.io/",
+  "citedby": 448,
+  "publications": {
+    "A-IPJPkAAAAJ:zYLM7Y9cAGgC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "MindEye2: Shared-Subject Models Enable fMRI-To-Image With 1 Hour of Data",
+        "pub_year": "2024",
+        "citation": "ICML 2024, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "A-IPJPkAAAAJ:zYLM7Y9cAGgC",
+      "num_citations": 193,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2810291302970296763",
+      "cites_id": [
+        "2810291302970296763"
+      ]
+    },
+    "A-IPJPkAAAAJ:u-x6o8ySG0sC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Transformer-based disease identification for small-scale imbalanced capsule endoscopy dataset",
+        "pub_year": "2022",
+        "citation": "Electronics 11 (17), 2747, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "A-IPJPkAAAAJ:u-x6o8ySG0sC",
+      "num_citations": 59,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12378622934114726287",
+      "cites_id": [
+        "12378622934114726287"
+      ]
+    },
+    "A-IPJPkAAAAJ:9yKSN-GCB0IC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "LLCaps: Learning to Illuminate Low-Light Capsule Endoscopy with Curved Wavelet Attention and Reverse Diffusion",
+        "pub_year": "2023",
+        "citation": "MICCAI 2023 (Oral), 2023"
+      },
+      "filled": false,
+      "author_pub_id": "A-IPJPkAAAAJ:9yKSN-GCB0IC",
+      "num_citations": 42,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6079886707075417743",
+      "cites_id": [
+        "6079886707075417743"
+      ]
+    },
+    "A-IPJPkAAAAJ:W7OEmFMy1HYC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "LighTDiff: Surgical endoscopic image low-light enhancement with T-diffusion",
+        "pub_year": "2024",
+        "citation": "MICCAI 2024 (🏆 Best Paper Runner-up), 369-379, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "A-IPJPkAAAAJ:W7OEmFMy1HYC",
+      "num_citations": 40,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1863684203876930117",
+      "cites_id": [
+        "1863684203876930117"
+      ]
+    },
+    "A-IPJPkAAAAJ:UeHWp8X0CEIC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Rethinking exemplars for continual semantic segmentation in endoscopy scenes: Entropy-based mini-batch pseudo-replay",
+        "pub_year": "2023",
+        "citation": "Computers in Biology and Medicine 165, 107412, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "A-IPJPkAAAAJ:UeHWp8X0CEIC",
+      "num_citations": 32,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3103235662748422800",
+      "cites_id": [
+        "3103235662748422800"
+      ]
+    },
+    "A-IPJPkAAAAJ:YsMSGLbcyi4C": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Endouic: Promptable diffusion transformer for unified illumination correction in capsule endoscopy",
+        "pub_year": "2024",
+        "citation": "MICCAI 2024, 296-306, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "A-IPJPkAAAAJ:YsMSGLbcyi4C",
+      "num_citations": 29,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11678386400564492949",
+      "cites_id": [
+        "11678386400564492949"
+      ]
+    },
+    "A-IPJPkAAAAJ:WF5omc3nYNoC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "SurgSora: Object-Aware Diffusion Model for Controllable Surgical Video Generation",
+        "pub_year": "2025",
+        "citation": "MICCAI 2025, 2025"
+      },
+      "filled": false,
+      "author_pub_id": "A-IPJPkAAAAJ:WF5omc3nYNoC",
+      "num_citations": 18,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13861292687759229394",
+      "cites_id": [
+        "13861292687759229394"
+      ]
+    },
+    "A-IPJPkAAAAJ:ufrVoPGSRksC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "DiN: Diffusion Model for Robust Medical VQA with Semantic Noisy Labels",
+        "pub_year": "2025",
+        "citation": "CVPR 2025, 2025"
+      },
+      "filled": false,
+      "author_pub_id": "A-IPJPkAAAAJ:ufrVoPGSRksC",
+      "num_citations": 10,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10346779012408690673",
+      "cites_id": [
+        "10346779012408690673"
+      ]
+    },
+    "A-IPJPkAAAAJ:2osOgNQ5qMEC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Semi-supervised Learning for Segmentation of Bleeding Regions in Video Capsule Endoscopy",
+        "pub_year": "2023",
+        "citation": "ICBIR 2023, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "A-IPJPkAAAAJ:2osOgNQ5qMEC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16195845445789654443",
+      "cites_id": [
+        "16195845445789654443"
+      ]
+    },
+    "A-IPJPkAAAAJ:_FxGoFyzp5QC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Endo-4DGX: Robust Endoscopic Scene Reconstruction and Illumination Correction with Gaussian Splatting",
+        "pub_year": "2025",
+        "citation": "MICCAI 2025, 2025"
+      },
+      "filled": false,
+      "author_pub_id": "A-IPJPkAAAAJ:_FxGoFyzp5QC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16112407284888123800",
+      "cites_id": [
+        "16112407284888123800"
+      ]
+    },
+    "A-IPJPkAAAAJ:hqOjcs7Dif8C": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "WiD-PET: PET Image Reconstruction from Low-Dose Data Using a Wavelet-Informed Diffusion Model with Fast Inference",
+        "pub_year": "2025",
+        "citation": "MICCAI 2025, 2025"
+      },
+      "filled": false,
+      "author_pub_id": "A-IPJPkAAAAJ:hqOjcs7Dif8C",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10354850554250514379",
+      "cites_id": [
+        "10354850554250514379"
+      ]
+    },
+    "A-IPJPkAAAAJ:4DMP91E08xMC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Can DeepSeek Reason Like a Surgeon? An Empirical Evaluation for Vision-Language Understanding in Robotic-Assisted Surgery",
+        "pub_year": "2025",
+        "citation": "International Workshop on Agentic AI for Medicine, 177-186, 2025"
+      },
+      "filled": false,
+      "author_pub_id": "A-IPJPkAAAAJ:4DMP91E08xMC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1178209088041758108",
+      "cites_id": [
+        "1178209088041758108"
+      ]
+    },
+    "A-IPJPkAAAAJ:4TOpqqG69KYC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Error Correction in Radiology Reports: A Knowledge Distillation-Based Multi-Stage Framework",
+        "pub_year": "2026",
+        "citation": "Proceedings of the AAAI Conference on Artificial Intelligence 40 (46), 39451 …, 2026"
+      },
+      "filled": false,
+      "author_pub_id": "A-IPJPkAAAAJ:4TOpqqG69KYC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1003249660349175620",
+      "cites_id": [
+        "1003249660349175620"
+      ]
+    },
+    "A-IPJPkAAAAJ:_kc_bZDykSQC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "EndoIR: Degradation-Agnostic All-in-One Endoscopic Image Restoration via Noise-Aware Routing Diffusion",
+        "pub_year": "2026",
+        "citation": "Proceedings of the AAAI Conference on Artificial Intelligence 40 (4), 3047-3055, 2026"
+      },
+      "filled": false,
+      "author_pub_id": "A-IPJPkAAAAJ:_kc_bZDykSQC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13972157701654280371",
+      "cites_id": [
+        "13972157701654280371"
+      ]
+    },
+    "A-IPJPkAAAAJ:M3ejUd6NZC8C": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Seeing What Matters: Lesion-Aware High-Resolution Patch Discovery and Fusion for Chest X-ray Report Generation",
+        "pub_year": "2026",
+        "citation": "ECCV 2026, 2026"
+      },
+      "filled": false,
+      "author_pub_id": "A-IPJPkAAAAJ:M3ejUd6NZC8C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9172320057959317153",
+      "cites_id": [
+        "9172320057959317153"
+      ]
+    },
+    "A-IPJPkAAAAJ:qxL8FJ1GzNcC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "SAT-RRG: LLM-Guided Self-Adaptive Training for Radiology Report Generation with Token-Level Push-Pull Optimization",
+        "pub_year": "2026",
+        "citation": "CVPR 2026, 35363-35372, 2026"
+      },
+      "filled": false,
+      "author_pub_id": "A-IPJPkAAAAJ:qxL8FJ1GzNcC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17724545117478117615",
+      "cites_id": [
+        "17724545117478117615"
+      ]
+    },
+    "A-IPJPkAAAAJ:aqlVkmm33-oC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Surg-UniWorld: A Unified Surgical World Model with Multimodal Control Experts",
+        "pub_year": "2026",
+        "citation": "arXiv preprint arXiv:2608.06770, 2026"
+      },
+      "filled": false,
+      "author_pub_id": "A-IPJPkAAAAJ:aqlVkmm33-oC",
+      "num_citations": 0
+    },
+    "A-IPJPkAAAAJ:kNdYIx-mwKoC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Efficient Medical Artificial Intelligence: First International Workshop, EMA4MICCAI 2025",
+        "pub_year": "2025",
+        "citation": "Springer Nature Switzerland, 2025"
+      },
+      "filled": false,
+      "author_pub_id": "A-IPJPkAAAAJ:kNdYIx-mwKoC",
+      "num_citations": 0
+    },
+    "A-IPJPkAAAAJ:0EnyYjriUFMC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "MIRAGE: Robust multi-modal architectures translate fMRI-to-image models from vision to mental imagery",
+        "pub_year": "2025",
+        "citation": "NeurIPS 2025, 2025"
+      },
+      "filled": false,
+      "author_pub_id": "A-IPJPkAAAAJ:0EnyYjriUFMC",
+      "num_citations": 0
+    }
+  },
+  "citedby5y": 448,
+  "hindex": 8,
+  "hindex5y": 8,
+  "i10index": 8,
+  "i10index5y": 8,
+  "cites_per_year": {
+    "2022": 4,
+    "2023": 23,
+    "2024": 60,
+    "2025": 173,
+    "2026": 188
+  },
+  "updated": "2026-09-05T11:50:46.190190+00:00"
+}

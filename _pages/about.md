@@ -147,7 +147,7 @@ redirect_from:
 <section class="homepage-History" id="Visiting History">
 	<center>
 	<div id="clustrmaps-widget" style="width:25%">
-	<script type="text/javascript" id="mmvst_globe" src="//mapmyvisitors.com/globe.js?d=jo1UOq51dtJot-kRFGO7o14CxxmdXoFuL0a30vGwsIM"></script>
+		<script type="text/javascript" id="mmvst_globe" src="//mapmyvisitors.com/globe.js?d=jo1UOq51dtJot-kRFGO7o14CxxmdXoFuL0a30vGwsIM"></script>
 	</div>
 	
 <footer class="profile-footer"><p>© 2026 Tong Chen · Generative medical AI and surgical intelligence.</p></footer>

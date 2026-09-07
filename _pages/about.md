@@ -142,8 +142,11 @@ redirect_from:
       <tr><td>Shuhuai Wang</td><td>Intern</td><td>2026–Present</td><td>—</td></tr>
     </tbody>
   </table></div>
+  
 </section>
-
-<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=qbgtG2inbIu30oJqkxfKXCrEUZqkLy7lu5wzGq7yJdM&cl=ffffff&w=a"></script>
+<p><center>
+	<div id="clustrmaps-widget" style="width:10%">
+  <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=qbgtG2inbIu30oJqkxfKXCrEUZqkLy7lu5wzGq7yJdM&cl=ffffff&w=a"></script>
+  </div></p>
 
 <footer class="profile-footer"><p>© 2026 Tong Chen · Generative medical AI and surgical intelligence.</p></footer>

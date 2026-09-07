@@ -146,7 +146,12 @@ redirect_from:
 
 
 		
-<footer class="profile-footer"><p>© 2026 Tong Chen · Generative medical AI and surgical intelligence.</p><br>
-<p><center>
-	<div id="clustrmaps-widget" style="width:10%"></div><center><script type="text/javascript" id="mmvst_globe" src="//mapmyvisitors.com/globe.js?d=jo1UOq51dtJot-kRFGO7o14CxxmdXoFuL0a30vGwsIM"></script>
-	</div></center></p></footer>
+<footer class="profile-footer">
+  <p>© 2026 Tong Chen · Generative medical AI and surgical intelligence.</p>
+  <div style="text-align:center; margin-top:1.5rem;">
+    <div style="display:inline-block; transform:scale(0.7); transform-origin:top center; margin-bottom:-60px;">
+      <script type="text/javascript" id="mmvst_globe"
+              src="https://mapmyvisitors.com/globe.js?d=jo1UOq51dtJot-kRFGO7o14CxxmdXoFuL0a30vGwsIM"></script>
+    </div>
+  </div>
+</footer>
